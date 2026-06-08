@@ -1,0 +1,57 @@
+[
+  {
+    "Name": "English",
+    "PolicyCode": "en",
+    "PlatformCode": "en-GB"
+  },
+  {
+    "Name": "German",
+    "PolicyCode": "de",
+    "PlatformCode": "de-DE"
+  },
+  {
+    "Name": "French",
+    "PolicyCode": "fr",
+    "PlatformCode": "fr-FR"
+  },
+  {
+    "Name": "Spanish",
+    "PolicyCode": "es",
+    "PlatformCode": "es-ES"
+  },
+  {
+    "Name": "Arabic",
+    "PolicyCode": "ar",
+    "PlatformCode": "ar-SA"
+  },
+  {
+    "Name": "Russian",
+    "PolicyCode": "ru",
+    "PlatformCode": "ru-RU"
+  },
+  {
+    "Name": "Polish",
+    "PolicyCode": "pl",
+    "PlatformCode": "pl-PL"
+  },
+  {
+    "Name": "Italian",
+    "PolicyCode": "it",
+    "PlatformCode": "it-IT"
+  },
+  {
+    "Name": "Portuguese",
+    "PolicyCode": "pt",
+    "PlatformCode": "pt-PT"
+  },
+  {
+    "Name": "Lituanian",
+    "PolicyCode": "lt",
+    "PlatformCode": "lt-LT"
+  },
+  {
+    "Name": "Japanese",
+    "PolicyCode": "ja",
+    "PlatformCode": "ja-JP"
+  }
+]

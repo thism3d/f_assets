@@ -1,0 +1,1667 @@
+{
+  "color": {
+    "primary": "0xff00a9b8",
+    "secondary": "0xff124254",
+    "background": "0xfff2f3f3",
+    "barcode": "0xff000000",
+    "activation_green": "0xff79BF77",
+    "activation_blue": "0xff6292BE",
+    "activation_light_blue": "0xffB8D1E8",
+    "activation_yellow": "0xffFFD566",
+    "activation_red": "0xffFF4B4C",
+    "activation_black": "0xff404040",
+    "grey_banner": "0xfff6f6f6",
+    "red_banner": "0xffe71E1f",
+    "event_detail_page.background01": "0xffffffff",
+    "delete_account_page.background01": "0xffffffff",
+    "pending_transfer_item.banner01": "0xffCAB1EC",
+    "transfer_history_item.banner01": "0xffCAB1EC",
+    "transfer_history_item.banner02": "0xffFFE5A1",
+    "deleted_ticket_item.banner01": "0xffFFC9C9",
+    "tooltip": "0xff000000",
+    "event_detail_page.banner01": "0xffF6F6F6",
+    "delete_account_completed_page.icon01": "0xffADADAD",
+    "green_banner": "0xffC4DFC3",
+    "ticket_general_info.iconColor": "0xff2A462A",
+    "recipient_confirmation_page.background01": "0xffF2F3F3",
+    "transfer_complete_page.background01": "0xffF2F3F3",
+    "my_group.color01": "0xffFFD566",
+    "profile_form.background01": "0xFFF2F4F5"
+  },
+  "button": {
+    "primary": {
+      "background": "0xff560055",
+      "overlayColor": "0xffffffff",
+      "border": {
+        "width": 1.0,
+        "radius": 12.0
+      },
+      "text": {
+        "color": "0xffffffff",
+        "font": {
+          "size": 15.0,
+          "name": null,
+          "weight": "w600",
+          "style": "normal"
+        },
+        "decoration": "none",
+        "letterSpacing": 0.15
+      }
+    },
+    "secondary": {
+      "border": {
+        "color": "0xff560055",
+        "width": 1.0,
+        "radius": 12.0
+      },
+      "text": {
+        "color": "0xff560055",
+        "font": {
+          "size": 15.0,
+          "name": null,
+          "weight": "w600",
+          "style": "normal"
+        },
+        "decoration": "none",
+        "letterSpacing": 0.15
+      }
+    },
+    "tertiary": {
+      "background": "0xffffffff",
+      "overlayColor": "0xffffffff",
+      "elevation": 0.0,
+      "text": {
+        "color": "0xff560055",
+        "font": {
+          "size": 15.0,
+          "name": null,
+          "weight": "w600",
+          "style": "normal"
+        },
+        "decoration": "none",
+        "letterSpacing": 0.15
+      }
+    },
+    "submit_reverted": {
+      "background": "0xffffffff",
+      "border": {
+        "width": 1.0,
+        "radius": 4.0
+      },
+      "text": {
+        "color": "0xff00a9b8",
+        "font": {
+          "size": 14.0,
+          "name": null,
+          "weight": "normal",
+          "style": "normal"
+        },
+        "decoration": "none"
+      }
+    },
+    "submit": {
+      "background": "0xff00a9b8",
+      "border": {
+        "width": 1.0,
+        "radius": 4.0
+      },
+      "text": {
+        "color": "0xffffffff",
+        "font": {
+          "size": 14.0,
+          "name": null,
+          "weight": "normal",
+          "style": "normal"
+        },
+        "decoration": "none"
+      }
+    },
+    "cancel": {
+      "background": "0xffff0000",
+      "border": {
+        "width": 1.0,
+        "radius": 4.0
+      },
+      "text": {
+        "color": "0xffffffff",
+        "font": {
+          "size": 14.0,
+          "name": null,
+          "weight": "normal",
+          "style": "normal"
+        },
+        "decoration": "none"
+      }
+    },
+    "accept": {
+      "background": "0xFF4CAF50",
+      "border": {
+        "width": 1.0,
+        "radius": 8.0
+      },
+      "text": {
+        "color": "0xffffffff",
+        "font": {
+          "size": 14.0,
+          "name": null,
+          "weight": "normal",
+          "style": "normal"
+        },
+        "decoration": "none"
+      }
+    },
+    "reject": {
+      "background": "0xFFF44336",
+      "border": {
+        "width": 1.0,
+        "radius": 8.0
+      },
+      "text": {
+        "color": "0xffffffff",
+        "font": {
+          "size": 14.0,
+          "name": null,
+          "weight": "normal",
+          "style": "normal"
+        },
+        "decoration": "none"
+      }
+    },
+    "detail": {
+      "border": {
+        "color": "0xffffffff",
+        "width": 1.0,
+        "radius": 4.0
+      },
+      "text": {
+        "color": "0xffffffff",
+        "font": {
+          "size": 14.0,
+          "name": null,
+          "weight": "normal",
+          "style": "normal"
+        },
+        "decoration": "none"
+      }
+    },
+    "detail_reverted": {
+      "border": {
+        "color": "0xff00a9b8",
+        "width": 1.0,
+        "radius": 4.0
+      },
+      "text": {
+        "color": "0xff00a9b8",
+        "font": {
+          "size": 14.0,
+          "name": null,
+          "weight": "normal",
+          "style": "normal"
+        },
+        "decoration": "none"
+      }
+    },
+    "delete": {
+      "text": {
+        "color": "0xffDE1818",
+        "font": {
+          "size": 16.0,
+          "name": null,
+          "weight": "normal",
+          "style": "normal"
+        },
+        "decoration": "none"
+      }
+    },
+    "notification": {
+      "text": {
+        "color": "0xff00a9b8",
+        "font": {
+          "size": 16.0,
+          "name": null,
+          "weight": "normal",
+          "style": "normal"
+        },
+        "decoration": "none"
+      }
+    },
+    "action_menu.submitButton01": {
+      "background": "0xffffffff",
+      "overlayColor": "0xff00a9b8",
+      "elevation": 0.0,
+      "border": {
+        "color": "0xff00a9b8",
+        "width": 1.0,
+        "radius": 12.0
+      },
+      "text": {
+        "color": "0xff00a9b8",
+        "font": {
+          "size": 16.0,
+          "name": null,
+          "weight": "w600",
+          "style": "normal"
+        },
+        "decoration": "none"
+      }
+    },
+    "ticket_free_space_info.submitButton01": {
+      "background": "0xffffffff",
+      "border": {
+        "color": "0xff00a9b8",
+        "width": 1.0,
+        "radius": 10.0
+      },
+      "text": {
+        "color": "0xff00a9b8",
+        "font": {
+          "size": 12.0,
+          "name": null,
+          "weight": "bold",
+          "style": "normal"
+        },
+        "decoration": "none"
+      }
+    },
+    "update_profile.textButton01": {
+      "text": {
+        "color": "0xffDE1818",
+        "font": {
+          "size": 14.0,
+          "name": null,
+          "weight": "normal",
+          "style": "normal"
+        },
+        "decoration": "none"
+      }
+    },
+    "delete_account_page.button01": {
+      "background": "0xffDE1818",
+      "overlayColor": "0xffffffff",
+      "border": {
+        "width": 1.0,
+        "radius": 4.0
+      },
+      "text": {
+        "color": "0xffffffff",
+        "font": {
+          "size": 14.0,
+          "name": null,
+          "weight": "normal",
+          "style": "normal"
+        },
+        "decoration": "none"
+      }
+    },
+    "pending_transfer_item.cancelButton01": {
+      "background": "0xff00a9b8",
+      "elevation": 0.0,
+      "border": {
+        "width": 1.0,
+        "radius": 12.0
+      },
+      "text": {
+        "color": "0xffFFFFFF",
+        "font": {
+          "size": 15.0,
+          "name": null,
+          "weight": "w600",
+          "style": "normal"
+        },
+        "decoration": "none"
+      }
+    },
+    "decisive_transfer_page.acceptButton01": {
+      "background": "0xFF579C00",
+      "border": {
+        "width": 1.0,
+        "radius": 12.0
+      },
+      "text": {
+        "color": "0xffffffff",
+        "font": {
+          "size": 15.0,
+          "name": null,
+          "weight": "w600",
+          "style": "normal"
+        },
+        "decoration": "none"
+      }
+    },
+    "decisive_transfer_page.rejectButton01": {
+      "background": "0xFFE71E1F",
+      "border": {
+        "width": 1.0,
+        "radius": 12.0
+      },
+      "text": {
+        "color": "0xffffffff",
+        "font": {
+          "size": 15.0,
+          "name": null,
+          "weight": "w600",
+          "style": "normal"
+        },
+        "decoration": "none"
+      }
+    },
+    "report_issue.button01": {
+      "background": "0xffffffff",
+      "overlayColor": "0xff00a9b8",
+      "elevation": 0.0,
+      "border": {
+        "color": "0xffffffff",
+        "width": 1.0,
+        "radius": 4.0
+      },
+      "text": {
+        "color": "0xff00a9b8",
+        "font": {
+          "size": 15.0,
+          "name": null,
+          "weight": "normal",
+          "style": "normal"
+        },
+        "decoration": "none"
+      }
+    },
+    "transfer_ticket_option_list.submitButton01": {
+      "background": "0xff560055",
+      "elevation": 0.0,
+      "border": {
+        "width": 1.0,
+        "radius": 12.0
+      },
+      "text": {
+        "color": "0xffffffff",
+        "font": {
+          "size": 15.0,
+          "name": null,
+          "weight": "w600",
+          "style": "normal"
+        },
+        "decoration": "none"
+      }
+    },
+    "recipient_confirmation_page.submitButton02": {
+      "background": "0xff560055",
+      "elevation": 0.0,
+      "border": {
+        "width": 1.0,
+        "radius": 12.0
+      },
+      "text": {
+        "color": "0xffffffff",
+        "font": {
+          "size": 15.0,
+          "name": null,
+          "weight": "w600",
+          "style": "normal"
+        },
+        "decoration": "none"
+      }
+    },
+    "transfer_complete_page.submitButton01": {
+      "background": "0xffffffff",
+      "overlayColor": "0xff560055",
+      "elevation": 0.0,
+      "border": {
+        "color": "0xff560055",
+        "width": 1.0,
+        "radius": 12.0
+      },
+      "text": {
+        "color": "0xff560055",
+        "font": {
+          "size": 15.0,
+          "name": null,
+          "weight": "w600",
+          "style": "normal"
+        },
+        "decoration": "none"
+      }
+    },
+    "transfer_complete_page.submitButton02": {
+      "background": "0xff560055",
+      "elevation": 0.0,
+      "border": {
+        "width": 1.0,
+        "radius": 12.0
+      },
+      "text": {
+        "color": "0xffffffff",
+        "font": {
+          "size": 15.0,
+          "name": null,
+          "weight": "w600",
+          "style": "normal"
+        },
+        "decoration": "none"
+      }
+    },
+    "modal_selector.submitButton01": {
+      "background": "0xff00a9b8",
+      "elevation": 0.0,
+      "border": {
+        "width": 1.0,
+        "radius": 12.0
+      },
+      "text": {
+        "color": "0xffffffff",
+        "font": {
+          "size": 15.0,
+          "name": null,
+          "weight": "w600",
+          "style": "normal"
+        },
+        "decoration": "none"
+      }
+    },
+    "my_group.textButton01": {
+      "elevation": 0.0,
+      "border": {
+        "color": "0xff6F2700",
+        "width": 1.0,
+        "radius": 12.0
+      },
+      "text": {
+        "color": "0xff6F2700",
+        "font": {
+          "size": 15.0,
+          "name": null,
+          "weight": "w600",
+          "style": "normal"
+        },
+        "decoration": "none"
+      }
+    }
+  },
+  "label": {
+    "name": "your font name in asset",
+    "h1": {
+      "color": "0xff000000",
+      "font": {
+        "size": 21.0,
+        "name": null,
+        "weight": "bold",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "h1_reverted": {
+      "color": "0xffffffff",
+      "font": {
+        "size": 21.0,
+        "name": null,
+        "weight": "bold",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "h2": {
+      "color": "0xff000000",
+      "font": {
+        "size": 19.0,
+        "name": null,
+        "weight": "bold",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "h2_reverted": {
+      "color": "0xffffffff",
+      "font": {
+        "size": 19.0,
+        "name": null,
+        "weight": "bold",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "h3": {
+      "color": "0xff000000",
+      "font": {
+        "size": 17.0,
+        "name": null,
+        "weight": "w700",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "h3_reverted": {
+      "color": "0xffffffff",
+      "font": {
+        "size": 17.0,
+        "name": null,
+        "weight": "w700",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "title": {
+      "color": "0xff000000",
+      "font": {
+        "size": 18.0,
+        "name": null,
+        "weight": "bold",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "title_reverted": {
+      "color": "0xffffffff",
+      "font": {
+        "size": 18.0,
+        "name": null,
+        "weight": "bold",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "subtitle": {
+      "color": "0xff000000",
+      "font": {
+        "size": 12.0,
+        "name": null,
+        "weight": "bold",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "subtitle_reverted": {
+      "color": "0xffffffff",
+      "font": {
+        "size": 12.0,
+        "name": null,
+        "weight": "bold",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "body": {
+      "color": "0xff000000",
+      "font": {
+        "size": 14.0,
+        "name": null,
+        "weight": "normal",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "bold_body": {
+      "color": "0xff000000",
+      "font": {
+        "size": 14.0,
+        "name": null,
+        "weight": "bold",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "body_reverted": {
+      "color": "0xffffffff",
+      "font": {
+        "size": 14.0,
+        "name": null,
+        "weight": "normal",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "bold_body_reverted": {
+      "color": "0xffffffff",
+      "font": {
+        "size": 14.0,
+        "name": null,
+        "weight": "bold",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "bodyText2": {
+      "color": "0xFF000000",
+      "font": {
+        "size": 12.0,
+        "name": null,
+        "weight": "normal",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "bold_bodyText2": {
+      "color": "0xFF000000",
+      "font": {
+        "size": 12.0,
+        "name": null,
+        "weight": "bold",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "bold_bodyText2_reverted": {
+      "color": "0xFFFFFFFF",
+      "font": {
+        "size": 12.0,
+        "name": null,
+        "weight": "bold",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "menu_item_title": {
+      "font": {
+        "size": 16.0,
+        "name": null,
+        "weight": "bold",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "red_menu_item": {
+      "color": "0xFFF44336",
+      "font": {
+        "size": 16.0,
+        "name": null,
+        "weight": "bold",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "footer_menu": {
+      "color": "0x8A000000",
+      "font": {
+        "size": 14.0,
+        "name": null,
+        "weight": "normal",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "badge_text": {
+      "color": "0xFF000000",
+      "font": {
+        "size": 12.0,
+        "name": null,
+        "weight": "bold",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "badge_text_reverted": {
+      "color": "0xffffffff",
+      "font": {
+        "size": 12.0,
+        "name": null,
+        "weight": "bold",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "text_field": {
+      "color": "0xff000000",
+      "font": {
+        "size": 14.0,
+        "name": null,
+        "weight": "normal",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "my_event_page.body01": {
+      "color": "0xffffffff",
+      "font": {
+        "size": 14.0,
+        "name": null,
+        "weight": "normal",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "ticket_general_info.body01": {
+      "color": "0xff000000",
+      "font": {
+        "size": 18.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "ticket_general_info.body02": {
+      "color": "0xff000000",
+      "font": {
+        "size": 18.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "ticket_general_info.body03": {
+      "color": "0xff595959",
+      "font": {
+        "size": 16.0,
+        "name": null,
+        "weight": "w400",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "ticket_general_info.body04": {
+      "color": "0xff000000",
+      "font": {
+        "size": 16.0,
+        "name": null,
+        "weight": "w400",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15,
+      "maxLines": 2,
+      "overflow": "ellipsis",
+      "height": 1.33
+    },
+    "ticket_general_info.body05": {
+      "color": "0xff595959",
+      "font": {
+        "size": 16.0,
+        "name": null,
+        "weight": "w400",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15,
+      "maxLines": 2,
+      "overflow": "ellipsis",
+      "height": 1.33
+    },
+    "ticket_general_info.body06": {
+      "color": "0xff2A462A",
+      "font": {
+        "size": 12.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "ticket_general_info.title01": {
+      "color": "0xff000000",
+      "font": {
+        "size": 26.0,
+        "name": null,
+        "weight": "w700",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "ticket_general_info.title02": {
+      "color": "0xff8A1538",
+      "font": {
+        "size": 16.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "ticket_general_info.title03": {
+      "color": "0xff595959",
+      "font": {
+        "size": 12.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "ticket_general_info.title04": {
+      "color": "0xff000000",
+      "font": {
+        "size": 20.0,
+        "name": null,
+        "weight": "w700",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "ticket_general_info.subTitle01": {
+      "color": "0xff595959",
+      "font": {
+        "size": 16.0,
+        "name": null,
+        "weight": "w400",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "ticket_banner.title01style01": {
+      "color": "0xff000000",
+      "font": {
+        "size": 16.0,
+        "name": null,
+        "weight": "w400",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "ticket_banner.subTitle01Style01": {
+      "color": "0xff1D1D1D",
+      "font": {
+        "size": 13.0,
+        "name": null,
+        "weight": "w400",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "ticket_banner.title01style02": {
+      "color": "0xffffffff",
+      "font": {
+        "size": 16.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "ticket_banner.subTitle01Style02": {
+      "color": "0xffffffff",
+      "font": {
+        "size": 13.0,
+        "name": null,
+        "weight": "w400",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "barcode_card.bodyText2ver01": {
+      "color": "0xFF000000",
+      "font": {
+        "size": 8.0,
+        "name": null,
+        "weight": "w400",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "ticket_extra_info.title01": {
+      "color": "0xff595959",
+      "font": {
+        "size": 16.0,
+        "name": null,
+        "weight": "w400",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "ticket_extra_info.body01": {
+      "color": "0xff1D1D1D",
+      "font": {
+        "size": 16.0,
+        "name": null,
+        "weight": "w400",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "ticket_hidden_info.title01": {
+      "color": "0xff000000",
+      "font": {
+        "size": 18.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "event_detail_page.title01": {
+      "color": "0xffffffff",
+      "font": {
+        "size": 17.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "ticket_free_space_info.title01": {
+      "color": "0xff000000",
+      "font": {
+        "size": 17.0,
+        "name": null,
+        "weight": "w700",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "past_overlay.title01": {
+      "color": "0xffffffff",
+      "font": {
+        "size": 15.0,
+        "name": null,
+        "weight": "w700",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "upgrade_screen_page.title01": {
+      "color": "0xff000000",
+      "font": {
+        "size": 17.0,
+        "name": null,
+        "weight": "w700",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "upgrade_screen_page.body01": {
+      "color": "0xff000000",
+      "font": {
+        "size": 15.0,
+        "name": null,
+        "weight": "w400",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "ticketshop_platform_webview.title01": {
+      "color": "0xffffffff",
+      "font": {
+        "size": 17.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "base_sticky_header.title": {
+      "color": "0xff00a9b8",
+      "font": {
+        "size": 14.0,
+        "name": null,
+        "weight": "normal",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "base_sticky_header.subtitle": {
+      "color": "0xff595959",
+      "font": {
+        "size": 14.0,
+        "name": null,
+        "weight": "normal",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "deleted_ticket_item.title01": {
+      "color": "0xff000000",
+      "font": {
+        "size": 14.0,
+        "name": null,
+        "weight": "normal",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "deleted_ticket_item.subTitle01": {
+      "color": "0xff595959",
+      "font": {
+        "size": 12.0,
+        "name": null,
+        "weight": "normal",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "ticket_preview.eventName": {
+      "color": "0xff595959",
+      "font": {
+        "size": 12.0,
+        "name": null,
+        "weight": "bold",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "banner_overlay.title": {
+      "color": "0xffffffff",
+      "font": {
+        "size": 12.0,
+        "name": null,
+        "weight": "bold",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "empty_page.body01": {
+      "color": "0xff000000",
+      "font": {
+        "size": 16.0,
+        "name": null,
+        "weight": "normal",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "ticket_activation_info.body01": {
+      "color": "0xff1D1D1D",
+      "font": {
+        "size": 12.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "yellow_warning.body01": {
+      "color": "0xff000000",
+      "font": {
+        "size": 14.0,
+        "name": null,
+        "weight": "normal",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "tutorial_mark.body01": {
+      "color": "0xffffffff",
+      "font": {
+        "size": 20.0,
+        "name": null,
+        "weight": "normal",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "pending_transfer_item.title01": {
+      "color": "0xff3A2458",
+      "font": {
+        "size": 12.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "height": 1.51
+    },
+    "transfer_history_item.title01": {
+      "color": "0xff3A2458",
+      "font": {
+        "size": 12.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "height": 1.51
+    },
+    "transfer_history_item.title02": {
+      "color": "0xff33312A",
+      "font": {
+        "size": 12.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "height": 1.51
+    },
+    "deleted_ticket_item.title02": {
+      "color": "0xff8B2035",
+      "font": {
+        "size": 12.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "height": 1.51
+    },
+    "barcode_timer.subtitle01": {
+      "color": "0xffffffff",
+      "font": {
+        "size": 8.0,
+        "name": null,
+        "weight": "normal",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "event_detail_page.title02": {
+      "color": "0xff1D1D1D",
+      "font": {
+        "size": 12.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "height": 1.51
+    },
+    "my_group.title02": {
+      "color": "0xff000000",
+      "font": {
+        "size": 16.0,
+        "name": null,
+        "weight": "normal",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "ticket_controlled_info.body01": {
+      "color": "0xff1D1D1D",
+      "font": {
+        "size": 12.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "side_menu_main_page.title01": {
+      "color": "0xff000000",
+      "font": {
+        "size": 16.0,
+        "name": null,
+        "weight": "normal",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "report_issue.title01": {
+      "color": "0xff00a9b8",
+      "font": {
+        "size": 20.0,
+        "name": null,
+        "weight": "bold",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "report_issue.body01": {
+      "color": "0xff000000",
+      "font": {
+        "size": 14.0,
+        "name": null,
+        "weight": "normal",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "my_group.title01": {
+      "color": "0xff000000",
+      "font": {
+        "size": 20.0,
+        "name": null,
+        "weight": "w500",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "my_group.subTitle01": {
+      "color": "0xff000000",
+      "font": {
+        "size": 16.0,
+        "name": null,
+        "weight": "w300",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "my_group.body01": {
+      "color": "0xff6F2700",
+      "font": {
+        "size": 15.0,
+        "name": null,
+        "weight": "w400",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "menu_item_subtitle": {
+      "font": {
+        "size": 14.0,
+        "name": null,
+        "weight": "w400",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "recipient_confirmation_page.body01": {
+      "color": "0xff560055",
+      "font": {
+        "size": 15.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "transfer_ticket_option_list.title01": {
+      "color": "0xff000000",
+      "font": {
+        "size": 17.0,
+        "name": null,
+        "weight": "w700",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "transfer_ticket_option_list.subTitle01": {
+      "color": "0xff595959",
+      "font": {
+        "size": 15.0,
+        "name": null,
+        "weight": "w400",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "transfer_step.title01": {
+      "color": "0xff1d1d1d",
+      "font": {
+        "size": 15.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "transfer_step.body01": {
+      "color": "0xff1d1d1d",
+      "font": {
+        "size": 15.0,
+        "name": null,
+        "weight": "w400",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "transfer_ticket_preview.body01": {
+      "color": "0xff696969",
+      "font": {
+        "size": 12.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "transfer_ticket_preview.body02": {
+      "color": "0xff560055",
+      "font": {
+        "size": 12.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "transfer_ticket_preview.body03": {
+      "color": "0xff595959",
+      "font": {
+        "size": 15.0,
+        "name": null,
+        "weight": "w400",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "transfer_ticket_preview.title01": {
+      "color": "0xff000000",
+      "font": {
+        "size": 17.0,
+        "name": null,
+        "weight": "w700",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "transfer_ticket_preview.subTitle01": {
+      "color": "0xff595959",
+      "font": {
+        "size": 12.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "transfer_ticket_option_label.body01": {
+      "color": "0xff1d1d1d",
+      "font": {
+        "size": 15.0,
+        "name": null,
+        "weight": "w400",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15,
+      "height": 1.33
+    },
+    "transfer_ticket_option_label.body02": {
+      "color": "0xff1d1d1d",
+      "font": {
+        "size": 15.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15,
+      "height": 1.33
+    },
+    "transfer_ticket_option_label.body03": {
+      "color": "0xff560055",
+      "font": {
+        "size": 15.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15,
+      "height": 1.33
+    },
+    "transfer_complete_page.title01": {
+      "color": "0xff000000",
+      "font": {
+        "size": 20.0,
+        "name": null,
+        "weight": "w700",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "transfer_complete_page.body01": {
+      "color": "0xff000000",
+      "font": {
+        "size": 15.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "transfer_complete_page.body02": {
+      "color": "0xff000000",
+      "font": {
+        "size": 15.0,
+        "name": null,
+        "weight": "w400",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "modal_selector.title01": {
+      "color": "0xff1D1D1D",
+      "font": {
+        "size": 17.0,
+        "name": null,
+        "weight": "w700",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "group_card.subtitle01": {
+      "color": "0xff000000",
+      "font": {
+        "size": 16.0,
+        "name": null,
+        "weight": "normal",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "event_card.subtitle01": {
+      "color": "0xff000000",
+      "font": {
+        "size": 16.0,
+        "name": null,
+        "weight": "normal",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "event_card.title01": {
+      "color": "0xff000000",
+      "font": {
+        "size": 20.0,
+        "name": null,
+        "weight": "w500",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "event_card.title02": {
+      "color": "0xff000000",
+      "font": {
+        "size": 16.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "group_card.title01": {
+      "color": "0xff000000",
+      "font": {
+        "size": 20.0,
+        "name": null,
+        "weight": "w500",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "group_card.title02": {
+      "color": "0xff000000",
+      "font": {
+        "size": 16.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "activation_blue.title": {
+      "color": "0xff00172D",
+      "font": {
+        "size": 32.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "activation_green.title": {
+      "color": "0xff0E260E",
+      "font": {
+        "size": 32.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "activation_red.title": {
+      "color": "0xff481515",
+      "font": {
+        "size": 32.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "reactivation_green.title": {
+      "color": "0xff0E260E",
+      "font": {
+        "size": 32.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "reactivation_red.title": {
+      "color": "0xff481515",
+      "font": {
+        "size": 32.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    },
+    "reactivation_yellow.title": {
+      "color": "0xff812E00",
+      "font": {
+        "size": 32.0,
+        "name": null,
+        "weight": "w600",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    }
+  },
+  "textField": {
+    "standard": {
+      "label": {
+        "font": {
+          "size": 12.0,
+          "name": null,
+          "weight": "normal",
+          "style": "normal"
+        },
+        "decoration": "none"
+      },
+      "hint": {
+        "color": "0xffd3d3d3",
+        "font": {
+          "size": 12.0,
+          "name": null,
+          "weight": "normal",
+          "style": "italic"
+        },
+        "decoration": "none"
+      },
+      "brightness": "light"
+    }
+  },
+  "delete_account_page.input01": {
+    "label": {
+      "font": {
+        "size": 14.0,
+        "name": null,
+        "weight": "normal",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "hint": {
+      "color": "0xffd3d3d3",
+      "font": {
+        "size": 14.0,
+        "name": null,
+        "weight": "normal",
+        "style": "italic"
+      },
+      "decoration": "none"
+    },
+    "input": {
+      "font": {
+        "size": 20.0,
+        "name": null,
+        "weight": "normal",
+        "style": "normal"
+      }
+    },
+    "brightness": "light"
+  },
+  "style": {
+    "body": {
+      "color": "0xff000000",
+      "font": {
+        "size": 15.0,
+        "name": null,
+        "weight": "normal",
+        "style": "normal"
+      },
+      "decoration": "none"
+    },
+    "a": {
+      "color": "0xff00a9b8",
+      "font": {
+        "size": 14.0,
+        "name": null,
+        "weight": "normal",
+        "style": "normal"
+      },
+      "decoration": "underline"
+    },
+    "ticket_extra_info.body01": {
+      "color": "0xff1D1D1D",
+      "font": {
+        "size": 16.0,
+        "name": null,
+        "weight": "w400",
+        "style": "normal"
+      },
+      "decoration": "none",
+      "letterSpacing": 0.15
+    }
+  }
+}

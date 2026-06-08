@@ -1,0 +1,8 @@
+{
+  "ticket_exchange_webview_title": "Ticket shop",
+  "exchange_ticket_fab_title": "Exchange your ticket",
+  "confirm_exchange_ticket_dialog_title": "Exchange this ticket",
+  "confirm_exchange_ticket_dialog_msg": "You will be redirected to the ticketshop. Do you want to continue?",
+  "confirm_exchange_ticket_dialog_button_01": "Exchange your ticket",
+  "confirm_exchange_ticket_dialog_button_02": "Not now"
+}

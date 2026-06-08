@@ -1,0 +1,23 @@
+{
+  "birthDateFormat": "yyyy-MM-dd",
+  "ticketDateFormat": "E dd MMM yyyy / HH:mm",
+  "eventDateFormat": "dd MMM yy",
+  "dateTimeFormat": "E dd MMM yyyy / HH:mm",
+  "dateFormat": "E dd MMM yyyy",
+  "barcodeDateFormat": "HH:mm:ss",
+  "colorActivationDateFormat": "dd-MM-yyyy HH:mm",
+  "logDateTimeFormat": "yyyy-MM-dd'T'HH:mm:ss.SSS'Z'",
+  "transferWithApproval": true,
+  "forceRestartApp": false,
+  "eventTimeFormat": "HH:mm",
+  "faqUrl": "",
+  "privacyUrl": "",
+  "generalConditionsUrl": "",
+  "secondGeneralConditionsUrl": "",
+  "ticketTermsOfUseUrl": "",
+  "ticketTermsOfSaleUrl": "",
+  "stadiumCodeOfConductUrl": "",
+  "enableTutorial": false,
+  "controlledDateTimeFormat": "dd MMM yy HH:mm",
+  "dateTimeFormat2": "dd MMM yy HH:mm:ss"
+}

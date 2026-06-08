@@ -1,0 +1,1937 @@
+[{
+	"Name": "Afghanistan",
+	"PolicyCode": "AFG",
+	"PlatformCode": "AFG",
+	"TerritoryIso2Code": "AF",
+	"TerritoryIso3Code": "AFG",
+	"CountryIso2Code": "AF",
+	"CountryIso3Code": "AFG"
+}, {
+	"Name": "Åland Islands",
+	"PolicyCode": "ALA",
+	"PlatformCode": "ALA",
+	"TerritoryIso2Code": "AX",
+	"TerritoryIso3Code": "ALA",
+	"CountryIso2Code": "AX",
+	"CountryIso3Code": "ALA"
+}, {
+	"Name": "Albania",
+	"PolicyCode": "ALB",
+	"PlatformCode": "ALB",
+	"TerritoryIso2Code": "AL",
+	"TerritoryIso3Code": "ALB",
+	"CountryIso2Code": "AL",
+	"CountryIso3Code": "ALB"
+}, {
+	"Name": "Algeria",
+	"PolicyCode": "DZA",
+	"PlatformCode": "ALG",
+	"TerritoryIso2Code": "DZ",
+	"TerritoryIso3Code": "DZA",
+	"CountryIso2Code": "DZ",
+	"CountryIso3Code": "DZA"
+}, {
+	"Name": "American Samoa",
+	"PolicyCode": "ASM",
+	"PlatformCode": "ASA",
+	"TerritoryIso2Code": "AS",
+	"TerritoryIso3Code": "ASM",
+	"CountryIso2Code": "US",
+	"CountryIso3Code": "USA"
+}, {
+	"Name": "Andorra",
+	"PolicyCode": "AND",
+	"PlatformCode": "AND",
+	"TerritoryIso2Code": "AD",
+	"TerritoryIso3Code": "AND",
+	"CountryIso2Code": "AD",
+	"CountryIso3Code": "AND"
+}, {
+	"Name": "Angola",
+	"PolicyCode": "AGO",
+	"PlatformCode": "ANG",
+	"TerritoryIso2Code": "AO",
+	"TerritoryIso3Code": "AGO",
+	"CountryIso2Code": "AO",
+	"CountryIso3Code": "AGO"
+}, {
+	"Name": "Anguilla",
+	"PolicyCode": "AIA",
+	"PlatformCode": "AIA",
+	"TerritoryIso2Code": "AI",
+	"TerritoryIso3Code": "AIA",
+	"CountryIso2Code": "GB",
+	"CountryIso3Code": "GBR"
+}, {
+	"Name": "Antarctica",
+	"PolicyCode": "ATA",
+	"PlatformCode": "ATA",
+	"TerritoryIso2Code": "AQ",
+	"TerritoryIso3Code": "ATA",
+	"CountryIso2Code": "AQ",
+	"CountryIso3Code": "ATA"
+}, {
+	"Name": "Antigua and Barbuda",
+	"PolicyCode": "ATG",
+	"PlatformCode": "ATG",
+	"TerritoryIso2Code": "AG",
+	"TerritoryIso3Code": "ATG",
+	"CountryIso2Code": "AG",
+	"CountryIso3Code": "ATG"
+}, {
+	"Name": "Argentina",
+	"PolicyCode": "ARG",
+	"PlatformCode": "ARG",
+	"TerritoryIso2Code": "AR",
+	"TerritoryIso3Code": "ARG",
+	"CountryIso2Code": "AR",
+	"CountryIso3Code": "ARG"
+}, {
+	"Name": "Armenia",
+	"PolicyCode": "ARM",
+	"PlatformCode": "ARM",
+	"TerritoryIso2Code": "AM",
+	"TerritoryIso3Code": "ARM",
+	"CountryIso2Code": "AM",
+	"CountryIso3Code": "ARM"
+}, {
+	"Name": "Aruba",
+	"PolicyCode": "ABW",
+	"PlatformCode": "ARU",
+	"TerritoryIso2Code": "AW",
+	"TerritoryIso3Code": "ABW",
+	"CountryIso2Code": "NL",
+	"CountryIso3Code": "NLD"
+}, {
+	"Name": "Australia",
+	"PolicyCode": "AUS",
+	"PlatformCode": "AUS",
+	"TerritoryIso2Code": "AU",
+	"TerritoryIso3Code": "AUS",
+	"CountryIso2Code": "AU",
+	"CountryIso3Code": "AUS"
+}, {
+	"Name": "Austria",
+	"PolicyCode": "AUT",
+	"PlatformCode": "AUT",
+	"TerritoryIso2Code": "AT",
+	"TerritoryIso3Code": "AUT",
+	"CountryIso2Code": "AT",
+	"CountryIso3Code": "AUT"
+}, {
+	"Name": "Azerbaijan",
+	"PolicyCode": "AZE",
+	"PlatformCode": "AZE",
+	"TerritoryIso2Code": "AZ",
+	"TerritoryIso3Code": "AZE",
+	"CountryIso2Code": "AZ",
+	"CountryIso3Code": "AZE"
+}, {
+	"Name": "Bahamas",
+	"PolicyCode": "BHS",
+	"PlatformCode": "BAH",
+	"TerritoryIso2Code": "BS",
+	"TerritoryIso3Code": "BHS",
+	"CountryIso2Code": "BS",
+	"CountryIso3Code": "BHS"
+}, {
+	"Name": "Bahrain",
+	"PolicyCode": "BHR",
+	"PlatformCode": "BHR",
+	"TerritoryIso2Code": "BH",
+	"TerritoryIso3Code": "BHR",
+	"CountryIso2Code": "BH",
+	"CountryIso3Code": "BHR"
+}, {
+	"Name": "Bangladesh",
+	"PolicyCode": "BGD",
+	"PlatformCode": "BAN",
+	"TerritoryIso2Code": "BD",
+	"TerritoryIso3Code": "BGD",
+	"CountryIso2Code": "BD",
+	"CountryIso3Code": "BGD"
+}, {
+	"Name": "Barbados",
+	"PolicyCode": "BRB",
+	"PlatformCode": "BRB",
+	"TerritoryIso2Code": "BB",
+	"TerritoryIso3Code": "BRB",
+	"CountryIso2Code": "BB",
+	"CountryIso3Code": "BRB"
+}, {
+	"Name": "Belarus",
+	"PolicyCode": "BLR",
+	"PlatformCode": "BLR",
+	"TerritoryIso2Code": "BY",
+	"TerritoryIso3Code": "BLR",
+	"CountryIso2Code": "BY",
+	"CountryIso3Code": "BLR"
+}, {
+	"Name": "Belgium",
+	"PolicyCode": "BEL",
+	"PlatformCode": "BEL",
+	"TerritoryIso2Code": "BE",
+	"TerritoryIso3Code": "BEL",
+	"CountryIso2Code": "BE",
+	"CountryIso3Code": "BEL"
+}, {
+	"Name": "Belize",
+	"PolicyCode": "BLZ",
+	"PlatformCode": "BLZ",
+	"TerritoryIso2Code": "BZ",
+	"TerritoryIso3Code": "BLZ",
+	"CountryIso2Code": "BZ",
+	"CountryIso3Code": "BLZ"
+}, {
+	"Name": "Benin",
+	"PolicyCode": "BEN",
+	"PlatformCode": "BEN",
+	"TerritoryIso2Code": "BJ",
+	"TerritoryIso3Code": "BEN",
+	"CountryIso2Code": "BJ",
+	"CountryIso3Code": "BEN"
+}, {
+	"Name": "Bermuda",
+	"PolicyCode": "BMU",
+	"PlatformCode": "BER",
+	"TerritoryIso2Code": "BM",
+	"TerritoryIso3Code": "BMU",
+	"CountryIso2Code": "GB",
+	"CountryIso3Code": "GBR"
+}, {
+	"Name": "Bhutan",
+	"PolicyCode": "BTN",
+	"PlatformCode": "BHU",
+	"TerritoryIso2Code": "BT",
+	"TerritoryIso3Code": "BTN",
+	"CountryIso2Code": "BO",
+	"CountryIso3Code": "BOL"
+}, {
+	"Name": "Bolivia",
+	"PolicyCode": "BOL",
+	"PlatformCode": "BOL",
+	"TerritoryIso2Code": "BO",
+	"TerritoryIso3Code": "BOL",
+	"CountryIso2Code": "BO",
+	"CountryIso3Code": "BOL"
+}, {
+	"Name": "Bosnia and Herzegovina",
+	"PolicyCode": "BIH",
+	"PlatformCode": "BIH",
+	"TerritoryIso2Code": "BA",
+	"TerritoryIso3Code": "BIH",
+	"CountryIso2Code": "BA",
+	"CountryIso3Code": "BIH"
+}, {
+	"Name": "Botswana",
+	"PolicyCode": "BWA",
+	"PlatformCode": "BOT",
+	"TerritoryIso2Code": "BW",
+	"TerritoryIso3Code": "BWA",
+	"CountryIso2Code": "BW",
+	"CountryIso3Code": "BWA"
+}, {
+	"Name": "Bouvet Island",
+	"PolicyCode": "BVT",
+	"PlatformCode": "BVT",
+	"TerritoryIso2Code": "BV",
+	"TerritoryIso3Code": "BVT",
+	"CountryIso2Code": "BV",
+	"CountryIso3Code": "BVT"
+}, {
+	"Name": "Brazil",
+	"PolicyCode": "BRA",
+	"PlatformCode": "BRA",
+	"TerritoryIso2Code": "BR",
+	"TerritoryIso3Code": "BRA",
+	"CountryIso2Code": "BR",
+	"CountryIso3Code": "BRA"
+}, {
+	"Name": "British Indian Ocean Territory",
+	"PolicyCode": "IOT",
+	"PlatformCode": "IOT",
+	"TerritoryIso2Code": "IO",
+	"TerritoryIso3Code": "IOT",
+	"CountryIso2Code": "IO",
+	"CountryIso3Code": "IOT"
+}, {
+	"Name": "British Virgin Islands",
+	"PolicyCode": "VGB",
+	"PlatformCode": "VGB",
+	"TerritoryIso2Code": "VG",
+	"TerritoryIso3Code": "VGB",
+	"CountryIso2Code": "GB",
+	"CountryIso3Code": "GBR"
+}, {
+	"Name": "Brunei Darussalam",
+	"PolicyCode": "BRN",
+	"PlatformCode": "BRU",
+	"TerritoryIso2Code": "BN",
+	"TerritoryIso3Code": "BRN",
+	"CountryIso2Code": "BN",
+	"CountryIso3Code": "BRN"
+}, {
+	"Name": "Bulgaria",
+	"PolicyCode": "BGR",
+	"PlatformCode": "BUL",
+	"TerritoryIso2Code": "BG",
+	"TerritoryIso3Code": "BGR",
+	"CountryIso2Code": "BG",
+	"CountryIso3Code": "BGR"
+}, {
+	"Name": "Burkina Faso",
+	"PolicyCode": "BFA",
+	"PlatformCode": "BFA",
+	"TerritoryIso2Code": "BF",
+	"TerritoryIso3Code": "BFA",
+	"CountryIso2Code": "BF",
+	"CountryIso3Code": "BFA"
+}, {
+	"Name": "Burundi",
+	"PolicyCode": "BDI",
+	"PlatformCode": "BDI",
+	"TerritoryIso2Code": "BI",
+	"TerritoryIso3Code": "BDI",
+	"CountryIso2Code": "BI",
+	"CountryIso3Code": "BDI"
+}, {
+	"Name": "Cambodia",
+	"PolicyCode": "KHM",
+	"PlatformCode": "CAM",
+	"TerritoryIso2Code": "KH",
+	"TerritoryIso3Code": "KHM",
+	"CountryIso2Code": "KH",
+	"CountryIso3Code": "KHM"
+}, {
+	"Name": "Cameroon",
+	"PolicyCode": "CMR",
+	"PlatformCode": "CMR",
+	"TerritoryIso2Code": "CM",
+	"TerritoryIso3Code": "CMR",
+	"CountryIso2Code": "CM",
+	"CountryIso3Code": "CMR"
+}, {
+	"Name": "Canada",
+	"PolicyCode": "CAN",
+	"PlatformCode": "CAN",
+	"TerritoryIso2Code": "CA",
+	"TerritoryIso3Code": "CAN",
+	"CountryIso2Code": "CA",
+	"CountryIso3Code": "CAN"
+}, {
+	"Name": "Cape Verde Islands",
+	"PolicyCode": "CPV",
+	"PlatformCode": "CPV",
+	"TerritoryIso2Code": "CV",
+	"TerritoryIso3Code": "CPV",
+	"CountryIso2Code": "CV",
+	"CountryIso3Code": "CPV"
+}, {
+	"Name": "Cayman Islands",
+	"PolicyCode": "CYM",
+	"PlatformCode": "CAY",
+	"TerritoryIso2Code": "KY",
+	"TerritoryIso3Code": "CYM",
+	"CountryIso2Code": "GB",
+	"CountryIso3Code": "GBR"
+}, {
+	"Name": "Central African Republic",
+	"PolicyCode": "CAF",
+	"PlatformCode": "CTA",
+	"TerritoryIso2Code": "CF",
+	"TerritoryIso3Code": "CAF",
+	"CountryIso2Code": "CF",
+	"CountryIso3Code": "CAF"
+}, {
+	"Name": "Chad",
+	"PolicyCode": "TCD",
+	"PlatformCode": "CHA",
+	"TerritoryIso2Code": "TD",
+	"TerritoryIso3Code": "TCD",
+	"CountryIso2Code": "TD",
+	"CountryIso3Code": "TCD"
+}, {
+	"Name": "Chile",
+	"PolicyCode": "CHL",
+	"PlatformCode": "CHI",
+	"TerritoryIso2Code": "CL",
+	"TerritoryIso3Code": "CHL",
+	"CountryIso2Code": "CL",
+	"CountryIso3Code": "CHL"
+}, {
+	"Name": "China PR",
+	"PolicyCode": "CHN",
+	"PlatformCode": "CHN",
+	"TerritoryIso2Code": "CN",
+	"TerritoryIso3Code": "CHN",
+	"CountryIso2Code": "CN",
+	"CountryIso3Code": "CHN"
+}, {
+	"Name": "Chinese Taipei",
+	"PolicyCode": "TWN",
+	"PlatformCode": "TPE",
+	"TerritoryIso2Code": "TW",
+	"TerritoryIso3Code": "TWN",
+	"CountryIso2Code": "CN",
+	"CountryIso3Code": "CHN"
+}, {
+	"Name": "Cocos (Keeling) Islands",
+	"PolicyCode": "CCK",
+	"PlatformCode": "CCK",
+	"TerritoryIso2Code": "CC",
+	"TerritoryIso3Code": "CCK",
+	"CountryIso2Code": "CC",
+	"CountryIso3Code": "CCK"
+}, {
+	"Name": "Colombia",
+	"PolicyCode": "COL",
+	"PlatformCode": "COL",
+	"TerritoryIso2Code": "CO",
+	"TerritoryIso3Code": "COL",
+	"CountryIso2Code": "CO",
+	"CountryIso3Code": "COL"
+}, {
+	"Name": "Comoros",
+	"PolicyCode": "COM",
+	"PlatformCode": "COM",
+	"TerritoryIso2Code": "KM",
+	"TerritoryIso3Code": "COM",
+	"CountryIso2Code": "KM",
+	"CountryIso3Code": "COM"
+}, {
+	"Name": "Congo",
+	"PolicyCode": "COG",
+	"PlatformCode": "CGO",
+	"TerritoryIso2Code": "CG",
+	"TerritoryIso3Code": "COG",
+	"CountryIso2Code": "CG",
+	"CountryIso3Code": "COG"
+}, {
+	"Name": "Congo DR",
+	"PolicyCode": "COD",
+	"PlatformCode": "COD",
+	"TerritoryIso2Code": "CD",
+	"TerritoryIso3Code": "COD",
+	"CountryIso2Code": "CD",
+	"CountryIso3Code": "COD"
+}, {
+	"Name": "Cook Islands",
+	"PolicyCode": "COK",
+	"PlatformCode": "COK",
+	"TerritoryIso2Code": "CK",
+	"TerritoryIso3Code": "COK",
+	"CountryIso2Code": "NZ",
+	"CountryIso3Code": "NZL"
+}, {
+	"Name": "Costa Rica",
+	"PolicyCode": "CRI",
+	"PlatformCode": "CRC",
+	"TerritoryIso2Code": "CR",
+	"TerritoryIso3Code": "CRI",
+	"CountryIso2Code": "CR",
+	"CountryIso3Code": "CRI"
+}, {
+	"Name": "Côte d'Ivoire",
+	"PolicyCode": "CIV",
+	"PlatformCode": "CIV",
+	"TerritoryIso2Code": "CI",
+	"TerritoryIso3Code": "CIV",
+	"CountryIso2Code": "CI",
+	"CountryIso3Code": "CIV"
+}, {
+	"Name": "Croatia",
+	"PolicyCode": "HRV",
+	"PlatformCode": "CRO",
+	"TerritoryIso2Code": "HR",
+	"TerritoryIso3Code": "HRV",
+	"CountryIso2Code": "HR",
+	"CountryIso3Code": "HRV"
+}, {
+	"Name": "Cuba",
+	"PolicyCode": "CUB",
+	"PlatformCode": "CUB",
+	"TerritoryIso2Code": "CU",
+	"TerritoryIso3Code": "CUB",
+	"CountryIso2Code": "CU",
+	"CountryIso3Code": "CUB"
+}, {
+	"Name": "Curacao",
+	"PolicyCode": "CUW",
+	"PlatformCode": "CUW",
+	"TerritoryIso2Code": "CW",
+	"TerritoryIso3Code": "CUW",
+	"CountryIso2Code": "NL",
+	"CountryIso3Code": "NLD"
+}, {
+	"Name": "Cyprus",
+	"PolicyCode": "CYP",
+	"PlatformCode": "CYP",
+	"TerritoryIso2Code": "CY",
+	"TerritoryIso3Code": "CYP",
+	"CountryIso2Code": "CY",
+	"CountryIso3Code": "CYP"
+}, {
+	"Name": "Czech Republic",
+	"PolicyCode": "CZE",
+	"PlatformCode": "CZE",
+	"TerritoryIso2Code": "CZ",
+	"TerritoryIso3Code": "CZE",
+	"CountryIso2Code": "CZ",
+	"CountryIso3Code": "CZE"
+}, {
+	"Name": "Denmark",
+	"PolicyCode": "DNK",
+	"PlatformCode": "DEN",
+	"TerritoryIso2Code": "DK",
+	"TerritoryIso3Code": "DNK",
+	"CountryIso2Code": "DK",
+	"CountryIso3Code": "DNK"
+}, {
+	"Name": "Djibouti",
+	"PolicyCode": "DJI",
+	"PlatformCode": "DJI",
+	"TerritoryIso2Code": "DJ",
+	"TerritoryIso3Code": "DJI",
+	"CountryIso2Code": "DJ",
+	"CountryIso3Code": "DJI"
+}, {
+	"Name": "Dominica",
+	"PolicyCode": "DMA",
+	"PlatformCode": "DMA",
+	"TerritoryIso2Code": "DM",
+	"TerritoryIso3Code": "DMA",
+	"CountryIso2Code": "DM",
+	"CountryIso3Code": "DMA"
+}, {
+	"Name": "Dominican Republic",
+	"PolicyCode": "DOM",
+	"PlatformCode": "DOM",
+	"TerritoryIso2Code": "DO",
+	"TerritoryIso3Code": "DOM",
+	"CountryIso2Code": "DO",
+	"CountryIso3Code": "DOM"
+}, {
+	"Name": "Ecuador",
+	"PolicyCode": "ECU",
+	"PlatformCode": "ECU",
+	"TerritoryIso2Code": "EC",
+	"TerritoryIso3Code": "ECU",
+	"CountryIso2Code": "EC",
+	"CountryIso3Code": "ECU"
+}, {
+	"Name": "Egypt",
+	"PolicyCode": "EGY",
+	"PlatformCode": "EGY",
+	"TerritoryIso2Code": "EG",
+	"TerritoryIso3Code": "EGY",
+	"CountryIso2Code": "EG",
+	"CountryIso3Code": "EGY"
+}, {
+	"Name": "El Salvador",
+	"PolicyCode": "SLV",
+	"PlatformCode": "SLV",
+	"TerritoryIso2Code": "SV",
+	"TerritoryIso3Code": "SLV",
+	"CountryIso2Code": "SV",
+	"CountryIso3Code": "SLV"
+}, {
+	"Name": "England",
+	"PolicyCode": null,
+	"PlatformCode": "ENG",
+	"TerritoryIso2Code": "XE",
+	"TerritoryIso3Code": "ENG",
+	"CountryIso2Code": "GB",
+	"CountryIso3Code": "GBR"
+}, {
+	"Name": "Equatorial Guinea",
+	"PolicyCode": "GNQ",
+	"PlatformCode": "EQG",
+	"TerritoryIso2Code": "GQ",
+	"TerritoryIso3Code": "GNQ",
+	"CountryIso2Code": "GQ",
+	"CountryIso3Code": "GNQ"
+}, {
+	"Name": "Eritrea",
+	"PolicyCode": "ERI",
+	"PlatformCode": "ERI",
+	"TerritoryIso2Code": "ER",
+	"TerritoryIso3Code": "ERI",
+	"CountryIso2Code": "ER",
+	"CountryIso3Code": "ERI"
+}, {
+	"Name": "Estonia",
+	"PolicyCode": "EST",
+	"PlatformCode": "EST",
+	"TerritoryIso2Code": "EE",
+	"TerritoryIso3Code": "EST",
+	"CountryIso2Code": "EE",
+	"CountryIso3Code": "EST"
+}, {
+	"Name": "Ethiopia",
+	"PolicyCode": "ETH",
+	"PlatformCode": "ETH",
+	"TerritoryIso2Code": "ET",
+	"TerritoryIso3Code": "ETH",
+	"CountryIso2Code": "ET",
+	"CountryIso3Code": "ETH"
+}, {
+	"Name": "Falkland Islands",
+	"PolicyCode": "FLK",
+	"PlatformCode": "FLK",
+	"TerritoryIso2Code": "FK",
+	"TerritoryIso3Code": "FLK",
+	"CountryIso2Code": "FK",
+	"CountryIso3Code": "FLK"
+}, {
+	"Name": "Faroe Islands",
+	"PolicyCode": "FRO",
+	"PlatformCode": "FRO",
+	"TerritoryIso2Code": "FO",
+	"TerritoryIso3Code": "FRO",
+	"CountryIso2Code": "DK",
+	"CountryIso3Code": "DNK"
+}, {
+	"Name": "Fiji",
+	"PolicyCode": "FJI",
+	"PlatformCode": "FIJ",
+	"TerritoryIso2Code": "FJ",
+	"TerritoryIso3Code": "FJI",
+	"CountryIso2Code": "FJ",
+	"CountryIso3Code": "FJI"
+}, {
+	"Name": "Finland",
+	"PolicyCode": "FIN",
+	"PlatformCode": "FIN",
+	"TerritoryIso2Code": "FI",
+	"TerritoryIso3Code": "FIN",
+	"CountryIso2Code": "FI",
+	"CountryIso3Code": "FIN"
+}, {
+	"Name": "France",
+	"PolicyCode": "FRA",
+	"PlatformCode": "FRA",
+	"TerritoryIso2Code": "FR",
+	"TerritoryIso3Code": "FRA",
+	"CountryIso2Code": "FR",
+	"CountryIso3Code": "FRA"
+}, {
+	"Name": "French Guiana",
+	"PolicyCode": "GUF",
+	"PlatformCode": "GUF",
+	"TerritoryIso2Code": "GF",
+	"TerritoryIso3Code": "GUF",
+	"CountryIso2Code": "GF",
+	"CountryIso3Code": "GUF"
+}, {
+	"Name": "Gabon",
+	"PolicyCode": "GAB",
+	"PlatformCode": "GAB",
+	"TerritoryIso2Code": "GA",
+	"TerritoryIso3Code": "GAB",
+	"CountryIso2Code": "GA",
+	"CountryIso3Code": "GAB"
+}, {
+	"Name": "Gambia",
+	"PolicyCode": "GMB",
+	"PlatformCode": "GAM",
+	"TerritoryIso2Code": "GM",
+	"TerritoryIso3Code": "GMB",
+	"CountryIso2Code": "GM",
+	"CountryIso3Code": "GMB"
+}, {
+	"Name": "Georgia",
+	"PolicyCode": "GEO",
+	"PlatformCode": "GEO",
+	"TerritoryIso2Code": "GE",
+	"TerritoryIso3Code": "GEO",
+	"CountryIso2Code": "GE",
+	"CountryIso3Code": "GEO"
+}, {
+	"Name": "Germany",
+	"PolicyCode": "DEU",
+	"PlatformCode": "GER",
+	"TerritoryIso2Code": "DE",
+	"TerritoryIso3Code": "DEU",
+	"CountryIso2Code": "DE",
+	"CountryIso3Code": "DEU"
+}, {
+	"Name": "Ghana",
+	"PolicyCode": "GHA",
+	"PlatformCode": "GHA",
+	"TerritoryIso2Code": "GH",
+	"TerritoryIso3Code": "GHA",
+	"CountryIso2Code": "GH",
+	"CountryIso3Code": "GHA"
+}, {
+	"Name": "Gibraltar",
+	"PolicyCode": "GIB",
+	"PlatformCode": "GIB",
+	"TerritoryIso2Code": "GI",
+	"TerritoryIso3Code": "GIB",
+	"CountryIso2Code": "GB",
+	"CountryIso3Code": "GBR"
+}, {
+	"Name": "Greece",
+	"PolicyCode": "GRC",
+	"PlatformCode": "GRE",
+	"TerritoryIso2Code": "GR",
+	"TerritoryIso3Code": "GRC",
+	"CountryIso2Code": "GR",
+	"CountryIso3Code": "GRC"
+}, {
+	"Name": "Greenland",
+	"PolicyCode": "GRL",
+	"PlatformCode": "GRL",
+	"TerritoryIso2Code": "GL",
+	"TerritoryIso3Code": "GRL",
+	"CountryIso2Code": "GL",
+	"CountryIso3Code": "GRL"
+}, {
+	"Name": "Grenada",
+	"PolicyCode": "GRD",
+	"PlatformCode": "GRN",
+	"TerritoryIso2Code": "GD",
+	"TerritoryIso3Code": "GRD",
+	"CountryIso2Code": "GD",
+	"CountryIso3Code": "GRD"
+}, {
+	"Name": "Guadeloupe",
+	"PolicyCode": "GLP",
+	"PlatformCode": "GLP",
+	"TerritoryIso2Code": "GP",
+	"TerritoryIso3Code": "GLP",
+	"CountryIso2Code": "GP",
+	"CountryIso3Code": "GLP"
+}, {
+	"Name": "Guam",
+	"PolicyCode": "GUM",
+	"PlatformCode": "GUM",
+	"TerritoryIso2Code": "GU",
+	"TerritoryIso3Code": "GUM",
+	"CountryIso2Code": "US",
+	"CountryIso3Code": "USA"
+}, {
+	"Name": "Guatemala",
+	"PolicyCode": "GTM",
+	"PlatformCode": "GUA",
+	"TerritoryIso2Code": "GT",
+	"TerritoryIso3Code": "GTM",
+	"CountryIso2Code": "GT",
+	"CountryIso3Code": "GTM"
+}, {
+	"Name": "Guernsey",
+	"PolicyCode": "GGY",
+	"PlatformCode": "GGY",
+	"TerritoryIso2Code": "GG",
+	"TerritoryIso3Code": "GGY",
+	"CountryIso2Code": "GG",
+	"CountryIso3Code": "GGY"
+}, {
+	"Name": "Guinea",
+	"PolicyCode": "GIN",
+	"PlatformCode": "GUI",
+	"TerritoryIso2Code": "GN",
+	"TerritoryIso3Code": "GIN",
+	"CountryIso2Code": "GN",
+	"CountryIso3Code": "GIN"
+}, {
+	"Name": "Guinea-Bissau",
+	"PolicyCode": "GNB",
+	"PlatformCode": "GNB",
+	"TerritoryIso2Code": "GW",
+	"TerritoryIso3Code": "GNB",
+	"CountryIso2Code": "GW",
+	"CountryIso3Code": "GNB"
+}, {
+	"Name": "Guyana",
+	"PolicyCode": "GUY",
+	"PlatformCode": "GUY",
+	"TerritoryIso2Code": "GY",
+	"TerritoryIso3Code": "GUY",
+	"CountryIso2Code": "GY",
+	"CountryIso3Code": "GUY"
+}, {
+	"Name": "Haiti",
+	"PolicyCode": "HTI",
+	"PlatformCode": "HAI",
+	"TerritoryIso2Code": "HT",
+	"TerritoryIso3Code": "HTI",
+	"CountryIso2Code": "HT",
+	"CountryIso3Code": "HTI"
+}, {
+	"Name": "Honduras",
+	"PolicyCode": "HND",
+	"PlatformCode": "HON",
+	"TerritoryIso2Code": "HN",
+	"TerritoryIso3Code": "HND",
+	"CountryIso2Code": "HN",
+	"CountryIso3Code": "HND"
+}, {
+	"Name": "Hong Kong",
+	"PolicyCode": "HKG",
+	"PlatformCode": "HKG",
+	"TerritoryIso2Code": "HK",
+	"TerritoryIso3Code": "HKG",
+	"CountryIso2Code": "CN",
+	"CountryIso3Code": "CHN"
+}, {
+	"Name": "Hungary",
+	"PolicyCode": "HUN",
+	"PlatformCode": "HUN",
+	"TerritoryIso2Code": "HU",
+	"TerritoryIso3Code": "HUN",
+	"CountryIso2Code": "HU",
+	"CountryIso3Code": "HUN"
+}, {
+	"Name": "Iceland",
+	"PolicyCode": "ISL",
+	"PlatformCode": "ISL",
+	"TerritoryIso2Code": "IS",
+	"TerritoryIso3Code": "ISL",
+	"CountryIso2Code": "IS",
+	"CountryIso3Code": "ISL"
+}, {
+	"Name": "India",
+	"PolicyCode": "IND",
+	"PlatformCode": "IND",
+	"TerritoryIso2Code": "IN",
+	"TerritoryIso3Code": "IND",
+	"CountryIso2Code": "IN",
+	"CountryIso3Code": "IND"
+}, {
+	"Name": "Indonesia",
+	"PolicyCode": "IDN",
+	"PlatformCode": "IDN",
+	"TerritoryIso2Code": "ID",
+	"TerritoryIso3Code": "IDN",
+	"CountryIso2Code": "ID",
+	"CountryIso3Code": "IDN"
+}, {
+	"Name": "Iran",
+	"PolicyCode": "IRN",
+	"PlatformCode": "IRN",
+	"TerritoryIso2Code": "IR",
+	"TerritoryIso3Code": "IRN",
+	"CountryIso2Code": "IR",
+	"CountryIso3Code": "IRN"
+}, {
+	"Name": "Iraq",
+	"PolicyCode": "IRQ",
+	"PlatformCode": "IRQ",
+	"TerritoryIso2Code": "IQ",
+	"TerritoryIso3Code": "IRQ",
+	"CountryIso2Code": "IQ",
+	"CountryIso3Code": "IRQ"
+}, {
+	"Name": "Isle of Man",
+	"PolicyCode": "IMN",
+	"PlatformCode": "IMN",
+	"TerritoryIso2Code": "IM",
+	"TerritoryIso3Code": "IMN",
+	"CountryIso2Code": "IM",
+	"CountryIso3Code": "IMN"
+}, {
+	"Name": "Israel",
+	"PolicyCode": "ISR",
+	"PlatformCode": "ISR",
+	"TerritoryIso2Code": "IL",
+	"TerritoryIso3Code": "ISR",
+	"CountryIso2Code": "IL",
+	"CountryIso3Code": "ISR"
+}, {
+	"Name": "Italy",
+	"PolicyCode": "ITA",
+	"PlatformCode": "ITA",
+	"TerritoryIso2Code": "IT",
+	"TerritoryIso3Code": "ITA",
+	"CountryIso2Code": "IT",
+	"CountryIso3Code": "ITA"
+}, {
+	"Name": "Jamaica",
+	"PolicyCode": "JAM",
+	"PlatformCode": "JAM",
+	"TerritoryIso2Code": "JM",
+	"TerritoryIso3Code": "JAM",
+	"CountryIso2Code": "JM",
+	"CountryIso3Code": "JAM"
+}, {
+	"Name": "Japan",
+	"PolicyCode": "JPN",
+	"PlatformCode": "JPN",
+	"TerritoryIso2Code": "JP",
+	"TerritoryIso3Code": "JPN",
+	"CountryIso2Code": "JP",
+	"CountryIso3Code": "JPN"
+}, {
+	"Name": "Jersey",
+	"PolicyCode": "JEY",
+	"PlatformCode": "JEY",
+	"TerritoryIso2Code": "JE",
+	"TerritoryIso3Code": "JEY",
+	"CountryIso2Code": "JE",
+	"CountryIso3Code": "JEY"
+}, {
+	"Name": "Jordan",
+	"PolicyCode": "JOR",
+	"PlatformCode": "JOR",
+	"TerritoryIso2Code": "JO",
+	"TerritoryIso3Code": "JOR",
+	"CountryIso2Code": "JO",
+	"CountryIso3Code": "JOR"
+}, {
+	"Name": "Kazakhstan",
+	"PolicyCode": "KAZ",
+	"PlatformCode": "KAZ",
+	"TerritoryIso2Code": "KZ",
+	"TerritoryIso3Code": "KAZ",
+	"CountryIso2Code": "KZ",
+	"CountryIso3Code": "KAZ"
+}, {
+	"Name": "Kenya",
+	"PolicyCode": "KEN",
+	"PlatformCode": "KEN",
+	"TerritoryIso2Code": "KE",
+	"TerritoryIso3Code": "KEN",
+	"CountryIso2Code": "KE",
+	"CountryIso3Code": "KEN"
+}, {
+	"Name": "Kiribati",
+	"PolicyCode": "KIR",
+	"PlatformCode": "KIR",
+	"TerritoryIso2Code": "KI",
+	"TerritoryIso3Code": "KIR",
+	"CountryIso2Code": "KI",
+	"CountryIso3Code": "KIR"
+}, {
+	"Name": "Korea DPR",
+	"PolicyCode": "PRK",
+	"PlatformCode": "PRK",
+	"TerritoryIso2Code": "KP",
+	"TerritoryIso3Code": "PRK",
+	"CountryIso2Code": "KP",
+	"CountryIso3Code": "PRK"
+}, {
+	"Name": "Korea Republic",
+	"PolicyCode": "KOR",
+	"PlatformCode": "KOR",
+	"TerritoryIso2Code": "KR",
+	"TerritoryIso3Code": "KOR",
+	"CountryIso2Code": "KR",
+	"CountryIso3Code": "KOR"
+}, {
+	"Name": "Kosovo",
+	"PolicyCode": "FFK",
+	"PlatformCode": "KOS",
+	"TerritoryIso2Code": "XK",
+	"TerritoryIso3Code": "FFK",
+	"CountryIso2Code": "XK",
+	"CountryIso3Code": "FFK"
+}, {
+	"Name": "Kuwait",
+	"PolicyCode": "KWT",
+	"PlatformCode": "KUW",
+	"TerritoryIso2Code": "KW",
+	"TerritoryIso3Code": "KWT",
+	"CountryIso2Code": "KW",
+	"CountryIso3Code": "KWT"
+}, {
+	"Name": "Kyrgyzstan",
+	"PolicyCode": "KGZ",
+	"PlatformCode": "KGZ",
+	"TerritoryIso2Code": "KG",
+	"TerritoryIso3Code": "KGZ",
+	"CountryIso2Code": "KG",
+	"CountryIso3Code": "KGZ"
+}, {
+	"Name": "Laos",
+	"PolicyCode": "LAO",
+	"PlatformCode": "LAO",
+	"TerritoryIso2Code": "LA",
+	"TerritoryIso3Code": "LAO",
+	"CountryIso2Code": "LA",
+	"CountryIso3Code": "LAO"
+}, {
+	"Name": "Latvia",
+	"PolicyCode": "LVA",
+	"PlatformCode": "LVA",
+	"TerritoryIso2Code": "LV",
+	"TerritoryIso3Code": "LVA",
+	"CountryIso2Code": "LV",
+	"CountryIso3Code": "LVA"
+}, {
+	"Name": "Lebanon",
+	"PolicyCode": "LBN",
+	"PlatformCode": "LBN",
+	"TerritoryIso2Code": "LB",
+	"TerritoryIso3Code": "LBN",
+	"CountryIso2Code": "LB",
+	"CountryIso3Code": "LBN"
+}, {
+	"Name": "Lesotho",
+	"PolicyCode": "LSO",
+	"PlatformCode": "LES",
+	"TerritoryIso2Code": "LS",
+	"TerritoryIso3Code": "LSO",
+	"CountryIso2Code": "LS",
+	"CountryIso3Code": "LSO"
+}, {
+	"Name": "Liberia",
+	"PolicyCode": "LBR",
+	"PlatformCode": "LBR",
+	"TerritoryIso2Code": "LR",
+	"TerritoryIso3Code": "LBR",
+	"CountryIso2Code": "LR",
+	"CountryIso3Code": "LBR"
+}, {
+	"Name": "Libya",
+	"PolicyCode": "LBY",
+	"PlatformCode": "LBY",
+	"TerritoryIso2Code": "LY",
+	"TerritoryIso3Code": "LBY",
+	"CountryIso2Code": "LY",
+	"CountryIso3Code": "LBY"
+}, {
+	"Name": "Liechtenstein",
+	"PolicyCode": "LIE",
+	"PlatformCode": "LIE",
+	"TerritoryIso2Code": "LI",
+	"TerritoryIso3Code": "LIE",
+	"CountryIso2Code": "LI",
+	"CountryIso3Code": "LIE"
+}, {
+	"Name": "Lithuania",
+	"PolicyCode": "LTU",
+	"PlatformCode": "LTU",
+	"TerritoryIso2Code": "LT",
+	"TerritoryIso3Code": "LTU",
+	"CountryIso2Code": "LT",
+	"CountryIso3Code": "LTU"
+}, {
+	"Name": "Luxembourg",
+	"PolicyCode": "LUX",
+	"PlatformCode": "LUX",
+	"TerritoryIso2Code": "LU",
+	"TerritoryIso3Code": "LUX",
+	"CountryIso2Code": "LU",
+	"CountryIso3Code": "LUX"
+}, {
+	"Name": "Macau",
+	"PolicyCode": "MAC",
+	"PlatformCode": "MAC",
+	"TerritoryIso2Code": "MO",
+	"TerritoryIso3Code": "MAC",
+	"CountryIso2Code": "CN",
+	"CountryIso3Code": "CHN"
+}, {
+	"Name": "Madagascar",
+	"PolicyCode": "MDG",
+	"PlatformCode": "MAD",
+	"TerritoryIso2Code": "MG",
+	"TerritoryIso3Code": "MDG",
+	"CountryIso2Code": "MG",
+	"CountryIso3Code": "MDG"
+}, {
+	"Name": "Malawi",
+	"PolicyCode": "MWI",
+	"PlatformCode": "MWI",
+	"TerritoryIso2Code": "MW",
+	"TerritoryIso3Code": "MWI",
+	"CountryIso2Code": "MW",
+	"CountryIso3Code": "MWI"
+}, {
+	"Name": "Malaysia",
+	"PolicyCode": "MYS",
+	"PlatformCode": "MAS",
+	"TerritoryIso2Code": "MY",
+	"TerritoryIso3Code": "MYS",
+	"CountryIso2Code": "MY",
+	"CountryIso3Code": "MYS"
+}, {
+	"Name": "Maldives",
+	"PolicyCode": "MDV",
+	"PlatformCode": "MDV",
+	"TerritoryIso2Code": "MV",
+	"TerritoryIso3Code": "MDV",
+	"CountryIso2Code": "MV",
+	"CountryIso3Code": "MDV"
+}, {
+	"Name": "Mali",
+	"PolicyCode": "MLI",
+	"PlatformCode": "MLI",
+	"TerritoryIso2Code": "ML",
+	"TerritoryIso3Code": "MLI",
+	"CountryIso2Code": "ML",
+	"CountryIso3Code": "MLI"
+}, {
+	"Name": "Malta",
+	"PolicyCode": "MLT",
+	"PlatformCode": "MLT",
+	"TerritoryIso2Code": "MT",
+	"TerritoryIso3Code": "MLT",
+	"CountryIso2Code": "MT",
+	"CountryIso3Code": "MLT"
+}, {
+	"Name": "Marshall Islands",
+	"PolicyCode": "MHL",
+	"PlatformCode": "MHL",
+	"TerritoryIso2Code": "MH",
+	"TerritoryIso3Code": "MHL",
+	"CountryIso2Code": "MH",
+	"CountryIso3Code": "MHL"
+}, {
+	"Name": "Martinique",
+	"PolicyCode": "MTQ",
+	"PlatformCode": "MTQ",
+	"TerritoryIso2Code": "MQ",
+	"TerritoryIso3Code": "MTQ",
+	"CountryIso2Code": "MQ",
+	"CountryIso3Code": "MTQ"
+}, {
+	"Name": "Mauritania",
+	"PolicyCode": "MRT",
+	"PlatformCode": "MTN",
+	"TerritoryIso2Code": "MR",
+	"TerritoryIso3Code": "MRT",
+	"CountryIso2Code": "MR",
+	"CountryIso3Code": "MRT"
+}, {
+	"Name": "Mauritius",
+	"PolicyCode": "MUS",
+	"PlatformCode": "MRI",
+	"TerritoryIso2Code": "MU",
+	"TerritoryIso3Code": "MUS",
+	"CountryIso2Code": "MU",
+	"CountryIso3Code": "MUS"
+}, {
+	"Name": "Mayotte",
+	"PolicyCode": "MYT",
+	"PlatformCode": "MYT",
+	"TerritoryIso2Code": "YT",
+	"TerritoryIso3Code": "MYT",
+	"CountryIso2Code": "YT",
+	"CountryIso3Code": "MYT"
+}, {
+	"Name": "Mexico",
+	"PolicyCode": "MEX",
+	"PlatformCode": "MEX",
+	"TerritoryIso2Code": "MX",
+	"TerritoryIso3Code": "MEX",
+	"CountryIso2Code": "MX",
+	"CountryIso3Code": "MEX"
+}, {
+	"Name": "Micronesia",
+	"PolicyCode": "FSM",
+	"PlatformCode": "FSM",
+	"TerritoryIso2Code": "FM",
+	"TerritoryIso3Code": "FSM",
+	"CountryIso2Code": "FM",
+	"CountryIso3Code": "FSM"
+}, {
+	"Name": "Moldova",
+	"PolicyCode": "MDA",
+	"PlatformCode": "MDA",
+	"TerritoryIso2Code": "MD",
+	"TerritoryIso3Code": "MDA",
+	"CountryIso2Code": "MD",
+	"CountryIso3Code": "MDA"
+}, {
+	"Name": "Monaco",
+	"PolicyCode": "MCO",
+	"PlatformCode": "MCO",
+	"TerritoryIso2Code": "MC",
+	"TerritoryIso3Code": "MCO",
+	"CountryIso2Code": "MC",
+	"CountryIso3Code": "MCO"
+}, {
+	"Name": "Mongolia",
+	"PolicyCode": "MNG",
+	"PlatformCode": "MNG",
+	"TerritoryIso2Code": "MN",
+	"TerritoryIso3Code": "MNG",
+	"CountryIso2Code": "MN",
+	"CountryIso3Code": "MNG"
+}, {
+	"Name": "Montenegro",
+	"PolicyCode": "MNE",
+	"PlatformCode": "MNE",
+	"TerritoryIso2Code": "ME",
+	"TerritoryIso3Code": "MNE",
+	"CountryIso2Code": "ME",
+	"CountryIso3Code": "MNE"
+}, {
+	"Name": "Montserrat",
+	"PolicyCode": "MSR",
+	"PlatformCode": "MSR",
+	"TerritoryIso2Code": "MS",
+	"TerritoryIso3Code": "MSR",
+	"CountryIso2Code": "GB",
+	"CountryIso3Code": "GBR"
+}, {
+	"Name": "Morocco",
+	"PolicyCode": "MAR",
+	"PlatformCode": "MAR",
+	"TerritoryIso2Code": "MA",
+	"TerritoryIso3Code": "MAR",
+	"CountryIso2Code": "MA",
+	"CountryIso3Code": "MAR"
+}, {
+	"Name": "Mozambique",
+	"PolicyCode": "MOZ",
+	"PlatformCode": "MOZ",
+	"TerritoryIso2Code": "MZ",
+	"TerritoryIso3Code": "MOZ",
+	"CountryIso2Code": "MZ",
+	"CountryIso3Code": "MOZ"
+}, {
+	"Name": "Myanmar",
+	"PolicyCode": "MMR",
+	"PlatformCode": "MYA",
+	"TerritoryIso2Code": "MM",
+	"TerritoryIso3Code": "MMR",
+	"CountryIso2Code": "MM",
+	"CountryIso3Code": "MMR"
+}, {
+	"Name": "Namibia",
+	"PolicyCode": "NAM",
+	"PlatformCode": "NAM",
+	"TerritoryIso2Code": "NA",
+	"TerritoryIso3Code": "NAM",
+	"CountryIso2Code": "NA",
+	"CountryIso3Code": "NAM"
+}, {
+	"Name": "Nauru",
+	"PolicyCode": "NRU",
+	"PlatformCode": "NRU",
+	"TerritoryIso2Code": "NR",
+	"TerritoryIso3Code": "NRU",
+	"CountryIso2Code": "NR",
+	"CountryIso3Code": "NRU"
+}, {
+	"Name": "Nepal",
+	"PolicyCode": "NPL",
+	"PlatformCode": "NEP",
+	"TerritoryIso2Code": "NP",
+	"TerritoryIso3Code": "NPL",
+	"CountryIso2Code": "NP",
+	"CountryIso3Code": "NPL"
+}, {
+	"Name": "Netherlands",
+	"PolicyCode": "NLD",
+	"PlatformCode": "NED",
+	"TerritoryIso2Code": "NL",
+	"TerritoryIso3Code": "NLD",
+	"CountryIso2Code": "NL",
+	"CountryIso3Code": "NLD"
+}, {
+	"Name": "New Caledonia",
+	"PolicyCode": "NCL",
+	"PlatformCode": "NCL",
+	"TerritoryIso2Code": "NC",
+	"TerritoryIso3Code": "NCL",
+	"CountryIso2Code": "FR",
+	"CountryIso3Code": "FRA"
+}, {
+	"Name": "New Zealand",
+	"PolicyCode": "NZL",
+	"PlatformCode": "NZL",
+	"TerritoryIso2Code": "NZ",
+	"TerritoryIso3Code": "NZL",
+	"CountryIso2Code": "NZ",
+	"CountryIso3Code": "NZL"
+}, {
+	"Name": "Nicaragua",
+	"PolicyCode": "NIC",
+	"PlatformCode": "NCA",
+	"TerritoryIso2Code": "NI",
+	"TerritoryIso3Code": "NIC",
+	"CountryIso2Code": "NI",
+	"CountryIso3Code": "NIC"
+}, {
+	"Name": "Niger",
+	"PolicyCode": "NER",
+	"PlatformCode": "NIG",
+	"TerritoryIso2Code": "NE",
+	"TerritoryIso3Code": "NER",
+	"CountryIso2Code": "NE",
+	"CountryIso3Code": "NER"
+}, {
+	"Name": "Nigeria",
+	"PolicyCode": "NGA",
+	"PlatformCode": "NGA",
+	"TerritoryIso2Code": "NG",
+	"TerritoryIso3Code": "NGA",
+	"CountryIso2Code": "NG",
+	"CountryIso3Code": "NGA"
+}, {
+	"Name": "Niue",
+	"PolicyCode": "NIU",
+	"PlatformCode": "NIU",
+	"TerritoryIso2Code": "NU",
+	"TerritoryIso3Code": "NIU",
+	"CountryIso2Code": "NU",
+	"CountryIso3Code": "NIU"
+}, {
+	"Name": "North Macedonia",
+	"PolicyCode": "MKD",
+	"PlatformCode": "MKD",
+	"TerritoryIso2Code": "MK",
+	"TerritoryIso3Code": "MKD",
+	"CountryIso2Code": "MK",
+	"CountryIso3Code": "MKD"
+}, {
+	"Name": "Northern Ireland",
+	"PolicyCode": null,
+	"PlatformCode": "NIR",
+	"TerritoryIso2Code": "XN",
+	"TerritoryIso3Code": "NIR",
+	"CountryIso2Code": "GB",
+	"CountryIso3Code": "GBR"
+}, {
+	"Name": "Northern Mariana Islands",
+	"PolicyCode": "MNP",
+	"PlatformCode": "MNP",
+	"TerritoryIso2Code": "MP",
+	"TerritoryIso3Code": "MNP",
+	"CountryIso2Code": "MP",
+	"CountryIso3Code": "MNP"
+}, {
+	"Name": "Norway",
+	"PolicyCode": "NOR",
+	"PlatformCode": "NOR",
+	"TerritoryIso2Code": "NO",
+	"TerritoryIso3Code": "NOR",
+	"CountryIso2Code": "NO",
+	"CountryIso3Code": "NOR"
+}, {
+	"Name": "Oman",
+	"PolicyCode": "OMN",
+	"PlatformCode": "OMA",
+	"TerritoryIso2Code": "OM",
+	"TerritoryIso3Code": "OMN",
+	"CountryIso2Code": "OM",
+	"CountryIso3Code": "OMN"
+}, {
+	"Name": "Pakistan",
+	"PolicyCode": "PAK",
+	"PlatformCode": "PAK",
+	"TerritoryIso2Code": "PK",
+	"TerritoryIso3Code": "PAK",
+	"CountryIso2Code": "PK",
+	"CountryIso3Code": "PAK"
+}, {
+	"Name": "Palau",
+	"PolicyCode": "PLW",
+	"PlatformCode": "PLW",
+	"TerritoryIso2Code": "PW",
+	"TerritoryIso3Code": "PLW",
+	"CountryIso2Code": "PW",
+	"CountryIso3Code": "PLW"
+}, {
+	"Name": "Palestine",
+	"PolicyCode": "PSE",
+	"PlatformCode": "PLE",
+	"TerritoryIso2Code": "PS",
+	"TerritoryIso3Code": "PSE",
+	"CountryIso2Code": "PS",
+	"CountryIso3Code": "PSE"
+}, {
+	"Name": "Panama",
+	"PolicyCode": "PAN",
+	"PlatformCode": "PAN",
+	"TerritoryIso2Code": "PA",
+	"TerritoryIso3Code": "PAN",
+	"CountryIso2Code": "PA",
+	"CountryIso3Code": "PAN"
+}, {
+	"Name": "Papua New Guinea",
+	"PolicyCode": "PNG",
+	"PlatformCode": "PNG",
+	"TerritoryIso2Code": "PG",
+	"TerritoryIso3Code": "PNG",
+	"CountryIso2Code": "PG",
+	"CountryIso3Code": "PNG"
+}, {
+	"Name": "Paraguay",
+	"PolicyCode": "PRY",
+	"PlatformCode": "PAR",
+	"TerritoryIso2Code": "PY",
+	"TerritoryIso3Code": "PRY",
+	"CountryIso2Code": "PY",
+	"CountryIso3Code": "PRY"
+}, {
+	"Name": "Peru",
+	"PolicyCode": "PER",
+	"PlatformCode": "PER",
+	"TerritoryIso2Code": "PE",
+	"TerritoryIso3Code": "PER",
+	"CountryIso2Code": "PE",
+	"CountryIso3Code": "PER"
+}, {
+	"Name": "Philippines",
+	"PolicyCode": "PHL",
+	"PlatformCode": "PHI",
+	"TerritoryIso2Code": "PH",
+	"TerritoryIso3Code": "PHL",
+	"CountryIso2Code": "PH",
+	"CountryIso3Code": "PHL"
+}, {
+	"Name": "Pitcairn Islands",
+	"PolicyCode": "PCN",
+	"PlatformCode": "PCN",
+	"TerritoryIso2Code": "PN",
+	"TerritoryIso3Code": "PCN",
+	"CountryIso2Code": "PN",
+	"CountryIso3Code": "PCN"
+}, {
+	"Name": "Poland",
+	"PolicyCode": "POL",
+	"PlatformCode": "POL",
+	"TerritoryIso2Code": "PL",
+	"TerritoryIso3Code": "POL",
+	"CountryIso2Code": "PL",
+	"CountryIso3Code": "POL"
+}, {
+	"Name": "Portugal",
+	"PolicyCode": "PRT",
+	"PlatformCode": "POR",
+	"TerritoryIso2Code": "PT",
+	"TerritoryIso3Code": "PRT",
+	"CountryIso2Code": "PT",
+	"CountryIso3Code": "PRT"
+}, {
+	"Name": "Puerto Rico",
+	"PolicyCode": "PRI",
+	"PlatformCode": "PUR",
+	"TerritoryIso2Code": "PR",
+	"TerritoryIso3Code": "PRI",
+	"CountryIso2Code": "US",
+	"CountryIso3Code": "USA"
+}, {
+	"Name": "Qatar",
+	"PolicyCode": "QAT",
+	"PlatformCode": "QAT",
+	"TerritoryIso2Code": "QA",
+	"TerritoryIso3Code": "QAT",
+	"CountryIso2Code": "QA",
+	"CountryIso3Code": "QAT"
+}, {
+	"Name": "Republic of Ireland",
+	"PolicyCode": "IRL",
+	"PlatformCode": "IRL",
+	"TerritoryIso2Code": "IE",
+	"TerritoryIso3Code": "IRL",
+	"CountryIso2Code": "IE",
+	"CountryIso3Code": "IRL"
+}, {
+	"Name": "Réunion",
+	"PolicyCode": "REU",
+	"PlatformCode": "REU",
+	"TerritoryIso2Code": "RE",
+	"TerritoryIso3Code": "REU",
+	"CountryIso2Code": "RE",
+	"CountryIso3Code": "REU"
+}, {
+	"Name": "Romania",
+	"PolicyCode": "ROU",
+	"PlatformCode": "ROU",
+	"TerritoryIso2Code": "RO",
+	"TerritoryIso3Code": "ROU",
+	"CountryIso2Code": "RO",
+	"CountryIso3Code": "ROU"
+}, {
+	"Name": "Russia",
+	"PolicyCode": "RUS",
+	"PlatformCode": "RUS",
+	"TerritoryIso2Code": "RU",
+	"TerritoryIso3Code": "RUS",
+	"CountryIso2Code": "RU",
+	"CountryIso3Code": "RUS"
+}, {
+	"Name": "Rwanda",
+	"PolicyCode": "RWA",
+	"PlatformCode": "RWA",
+	"TerritoryIso2Code": "RW",
+	"TerritoryIso3Code": "RWA",
+	"CountryIso2Code": "RW",
+	"CountryIso3Code": "RWA"
+}, {
+	"Name": "Samoa",
+	"PolicyCode": "WSM",
+	"PlatformCode": "SAM",
+	"TerritoryIso2Code": "WS",
+	"TerritoryIso3Code": "WSM",
+	"CountryIso2Code": "WS",
+	"CountryIso3Code": "WSM"
+}, {
+	"Name": "San Marino",
+	"PolicyCode": "SMR",
+	"PlatformCode": "SMR",
+	"TerritoryIso2Code": "SM",
+	"TerritoryIso3Code": "SMR",
+	"CountryIso2Code": "SM",
+	"CountryIso3Code": "SMR"
+}, {
+	"Name": "Saint Helena, Ascension and Tristan da Cunha",
+	"PolicyCode": "SHN",
+	"PlatformCode": "SHN",
+	"TerritoryIso2Code": "SH",
+	"TerritoryIso3Code": "SHN",
+	"CountryIso2Code": "SH",
+	"CountryIso3Code": "SHN"
+}, {
+	"Name": "Saint Martin",
+	"PolicyCode": "MAF",
+	"PlatformCode": "MAF",
+	"TerritoryIso2Code": "MF",
+	"TerritoryIso3Code": "MAF",
+	"CountryIso2Code": "MF",
+	"CountryIso3Code": "MAF"
+}, {
+	"Name": "Sao Tome e Principe",
+	"PolicyCode": "STP",
+	"PlatformCode": "STP",
+	"TerritoryIso2Code": "ST",
+	"TerritoryIso3Code": "STP",
+	"CountryIso2Code": "ST",
+	"CountryIso3Code": "STP"
+}, {
+	"Name": "Saudi Arabia",
+	"PolicyCode": "SAU",
+	"PlatformCode": "KSA",
+	"TerritoryIso2Code": "SA",
+	"TerritoryIso3Code": "SAU",
+	"CountryIso2Code": "SA",
+	"CountryIso3Code": "SAU"
+}, {
+	"Name": "Scotland",
+	"PolicyCode": null,
+	"PlatformCode": "SCO",
+	"TerritoryIso2Code": "XS",
+	"TerritoryIso3Code": "SCO",
+	"CountryIso2Code": "GB",
+	"CountryIso3Code": "GBR"
+}, {
+	"Name": "Senegal",
+	"PolicyCode": "SEN",
+	"PlatformCode": "SEN",
+	"TerritoryIso2Code": "SN",
+	"TerritoryIso3Code": "SEN",
+	"CountryIso2Code": "SN",
+	"CountryIso3Code": "SEN"
+}, {
+	"Name": "Serbia",
+	"PolicyCode": "SRB",
+	"PlatformCode": "SRB",
+	"TerritoryIso2Code": "RS",
+	"TerritoryIso3Code": "SRB",
+	"CountryIso2Code": "RS",
+	"CountryIso3Code": "SRB"
+}, {
+	"Name": "Seychelles",
+	"PolicyCode": "SYC",
+	"PlatformCode": "SEY",
+	"TerritoryIso2Code": "SC",
+	"TerritoryIso3Code": "SYC",
+	"CountryIso2Code": "SC",
+	"CountryIso3Code": "SYC"
+}, {
+	"Name": "Sierra Leone",
+	"PolicyCode": "SLE",
+	"PlatformCode": "SLE",
+	"TerritoryIso2Code": "SL",
+	"TerritoryIso3Code": "SLE",
+	"CountryIso2Code": "SL",
+	"CountryIso3Code": "SLE"
+}, {
+	"Name": "Singapore",
+	"PolicyCode": "SGP",
+	"PlatformCode": "SGP",
+	"TerritoryIso2Code": "SG",
+	"TerritoryIso3Code": "SGP",
+	"CountryIso2Code": "SG",
+	"CountryIso3Code": "SGP"
+}, {
+	"Name": "Sint Maarten",
+	"PolicyCode": "SXM",
+	"PlatformCode": "SXM",
+	"TerritoryIso2Code": "SX",
+	"TerritoryIso3Code": "SXM",
+	"CountryIso2Code": "SW",
+	"CountryIso3Code": "SXM"
+}, {
+	"Name": "Slovakia",
+	"PolicyCode": "SVK",
+	"PlatformCode": "SVK",
+	"TerritoryIso2Code": "SK",
+	"TerritoryIso3Code": "SVK",
+	"CountryIso2Code": "SK",
+	"CountryIso3Code": "SVK"
+}, {
+	"Name": "Slovenia",
+	"PolicyCode": "SVN",
+	"PlatformCode": "SVN",
+	"TerritoryIso2Code": "SI",
+	"TerritoryIso3Code": "SVN",
+	"CountryIso2Code": "SI",
+	"CountryIso3Code": "SVN"
+}, {
+	"Name": "Solomon Islands",
+	"PolicyCode": "SLB",
+	"PlatformCode": "SOL",
+	"TerritoryIso2Code": "SB",
+	"TerritoryIso3Code": "SLB",
+	"CountryIso2Code": "SB",
+	"CountryIso3Code": "SLB"
+}, {
+	"Name": "Somalia",
+	"PolicyCode": "SOM",
+	"PlatformCode": "SOM",
+	"TerritoryIso2Code": "SO",
+	"TerritoryIso3Code": "SOM",
+	"CountryIso2Code": "SO",
+	"CountryIso3Code": "SOM"
+}, {
+	"Name": "South Africa",
+	"PolicyCode": "ZAF",
+	"PlatformCode": "RSA",
+	"TerritoryIso2Code": "ZA",
+	"TerritoryIso3Code": "ZAF",
+	"CountryIso2Code": "ZA",
+	"CountryIso3Code": "ZAF"
+}, {
+	"Name": "South Sudan",
+	"PolicyCode": "SSD",
+	"PlatformCode": "SSD",
+	"TerritoryIso2Code": "SS",
+	"TerritoryIso3Code": "SSD",
+	"CountryIso2Code": "SS",
+	"CountryIso3Code": "SSD"
+}, {
+	"Name": "Spain",
+	"PolicyCode": "ESP",
+	"PlatformCode": "ESP",
+	"TerritoryIso2Code": "ES",
+	"TerritoryIso3Code": "ESP",
+	"CountryIso2Code": "ES",
+	"CountryIso3Code": "ESP"
+}, {
+	"Name": "Sri Lanka",
+	"PolicyCode": "LKA",
+	"PlatformCode": "SRI",
+	"TerritoryIso2Code": "LK",
+	"TerritoryIso3Code": "LKA",
+	"CountryIso2Code": "LK",
+	"CountryIso3Code": "LKA"
+}, {
+	"Name": "St. Kitts and Nevis",
+	"PolicyCode": "KNA",
+	"PlatformCode": "SKN",
+	"TerritoryIso2Code": "KN",
+	"TerritoryIso3Code": "KNA",
+	"CountryIso2Code": "KN",
+	"CountryIso3Code": "KNA"
+}, {
+	"Name": "St. Lucia",
+	"PolicyCode": "LCA",
+	"PlatformCode": "LCA",
+	"TerritoryIso2Code": "LC",
+	"TerritoryIso3Code": "LCA",
+	"CountryIso2Code": "LC",
+	"CountryIso3Code": "LCA"
+}, {
+	"Name": "St. Vincent and the Grenadines",
+	"PolicyCode": "VCT",
+	"PlatformCode": "VIN",
+	"TerritoryIso2Code": "VC",
+	"TerritoryIso3Code": "VCT",
+	"CountryIso2Code": "VC",
+	"CountryIso3Code": "VCT"
+}, {
+	"Name": "Sudan",
+	"PolicyCode": "SDN",
+	"PlatformCode": "SDN",
+	"TerritoryIso2Code": "SD",
+	"TerritoryIso3Code": "SDN",
+	"CountryIso2Code": "SD",
+	"CountryIso3Code": "SDN"
+}, {
+	"Name": "Suriname",
+	"PolicyCode": "SUR",
+	"PlatformCode": "SUR",
+	"TerritoryIso2Code": "SR",
+	"TerritoryIso3Code": "SUR",
+	"CountryIso2Code": "SR",
+	"CountryIso3Code": "SUR"
+}, {
+	"Name": "Swaziland",
+	"PolicyCode": "SWZ",
+	"PlatformCode": "SWZ",
+	"TerritoryIso2Code": "SZ",
+	"TerritoryIso3Code": "SWZ",
+	"CountryIso2Code": "SZ",
+	"CountryIso3Code": "SWZ"
+}, {
+	"Name": "Sweden",
+	"PolicyCode": "SWE",
+	"PlatformCode": "SWE",
+	"TerritoryIso2Code": "SE",
+	"TerritoryIso3Code": "SWE",
+	"CountryIso2Code": "SE",
+	"CountryIso3Code": "SWE"
+}, {
+	"Name": "Switzerland",
+	"PolicyCode": "CHE",
+	"PlatformCode": "SUI",
+	"TerritoryIso2Code": "CH",
+	"TerritoryIso3Code": "CHE",
+	"CountryIso2Code": "CH",
+	"CountryIso3Code": "CHE"
+}, {
+	"Name": "Syria",
+	"PolicyCode": "SYR",
+	"PlatformCode": "SYR",
+	"TerritoryIso2Code": "SY",
+	"TerritoryIso3Code": "SYR",
+	"CountryIso2Code": "SY",
+	"CountryIso3Code": "SYR"
+}, {
+	"Name": "Tahiti",
+	"PolicyCode": "PYF",
+	"PlatformCode": "TAH",
+	"TerritoryIso2Code": "PF",
+	"TerritoryIso3Code": "PYF",
+	"CountryIso2Code": "PF",
+	"CountryIso3Code": "PYF"
+}, {
+	"Name": "Tajikistan",
+	"PolicyCode": "TJK",
+	"PlatformCode": "TJK",
+	"TerritoryIso2Code": "TJ",
+	"TerritoryIso3Code": "TJK",
+	"CountryIso2Code": "TJ",
+	"CountryIso3Code": "TJK"
+}, {
+	"Name": "Tanzania",
+	"PolicyCode": "TZA",
+	"PlatformCode": "TAN",
+	"TerritoryIso2Code": "TZ",
+	"TerritoryIso3Code": "TZA",
+	"CountryIso2Code": "TZ",
+	"CountryIso3Code": "TZA"
+}, {
+	"Name": "Thailand",
+	"PolicyCode": "THA",
+	"PlatformCode": "THA",
+	"TerritoryIso2Code": "TH",
+	"TerritoryIso3Code": "THA",
+	"CountryIso2Code": "TH",
+	"CountryIso3Code": "THA"
+}, {
+	"Name": "Timor-Leste",
+	"PolicyCode": "TLS",
+	"PlatformCode": "TLS",
+	"TerritoryIso2Code": "TL",
+	"TerritoryIso3Code": "TLS",
+	"CountryIso2Code": "TL",
+	"CountryIso3Code": "TLS"
+}, {
+	"Name": "Togo",
+	"PolicyCode": "TGO",
+	"PlatformCode": "TOG",
+	"TerritoryIso2Code": "TG",
+	"TerritoryIso3Code": "TGO",
+	"CountryIso2Code": "TG",
+	"CountryIso3Code": "TGO"
+}, {
+	"Name": "Tonga",
+	"PolicyCode": "TON",
+	"PlatformCode": "TGA",
+	"TerritoryIso2Code": "TO",
+	"TerritoryIso3Code": "TON",
+	"CountryIso2Code": "TO",
+	"CountryIso3Code": "TON"
+}, {
+	"Name": "Trinidad and Tobago",
+	"PolicyCode": "TTO",
+	"PlatformCode": "TRI",
+	"TerritoryIso2Code": "TT",
+	"TerritoryIso3Code": "TTO",
+	"CountryIso2Code": "TT",
+	"CountryIso3Code": "TTO"
+}, {
+	"Name": "Tunisia",
+	"PolicyCode": "TUN",
+	"PlatformCode": "TUN",
+	"TerritoryIso2Code": "TN",
+	"TerritoryIso3Code": "TUN",
+	"CountryIso2Code": "TN",
+	"CountryIso3Code": "TUN"
+}, {
+	"Name": "Turkey",
+	"PolicyCode": "TUR",
+	"PlatformCode": "TUR",
+	"TerritoryIso2Code": "TR",
+	"TerritoryIso3Code": "TUR",
+	"CountryIso2Code": "TR",
+	"CountryIso3Code": "TUR"
+}, {
+	"Name": "Turkmenistan",
+	"PolicyCode": "TKM",
+	"PlatformCode": "TKM",
+	"TerritoryIso2Code": "TM",
+	"TerritoryIso3Code": "TKM",
+	"CountryIso2Code": "TM",
+	"CountryIso3Code": "TKM"
+}, {
+	"Name": "Turks and Caicos Islands",
+	"PolicyCode": "TCA",
+	"PlatformCode": "TCA",
+	"TerritoryIso2Code": "TC",
+	"TerritoryIso3Code": "TCA",
+	"CountryIso2Code": "GB",
+	"CountryIso3Code": "GBR"
+}, {
+	"Name": "Tuvalu",
+	"PolicyCode": "TUV",
+	"PlatformCode": "TUV",
+	"TerritoryIso2Code": "TV",
+	"TerritoryIso3Code": "TUV",
+	"CountryIso2Code": "TV",
+	"CountryIso3Code": "TUV"
+}, {
+	"Name": "Uganda",
+	"PolicyCode": "UGA",
+	"PlatformCode": "UGA",
+	"TerritoryIso2Code": "UG",
+	"TerritoryIso3Code": "UGA",
+	"CountryIso2Code": "UG",
+	"CountryIso3Code": "UGA"
+}, {
+	"Name": "Ukraine",
+	"PolicyCode": "UKR",
+	"PlatformCode": "UKR",
+	"TerritoryIso2Code": "UA",
+	"TerritoryIso3Code": "UKR",
+	"CountryIso2Code": "UA",
+	"CountryIso3Code": "UKR"
+}, {
+	"Name": "United Arab Emirates",
+	"PolicyCode": "ARE",
+	"PlatformCode": "UAE",
+	"TerritoryIso2Code": "AE",
+	"TerritoryIso3Code": "ARE",
+	"CountryIso2Code": "AE",
+	"CountryIso3Code": "ARE"
+}, {
+	"Name": "United Kingdom",
+	"PolicyCode": "GBR",
+	"PlatformCode": "GBR",
+	"TerritoryIso2Code": "GB",
+	"TerritoryIso3Code": "GBR",
+	"CountryIso2Code": "GB",
+	"CountryIso3Code": "GBR"
+}, {
+	"Name": "United States Minor Outlying Islands",
+	"PolicyCode": "UMI",
+	"PlatformCode": "UMI",
+	"TerritoryIso2Code": "UM",
+	"TerritoryIso3Code": "UMI",
+	"CountryIso2Code": "UM",
+	"CountryIso3Code": "UMI"
+}, {
+	"Name": "Uruguay",
+	"PolicyCode": "URY",
+	"PlatformCode": "URU",
+	"TerritoryIso2Code": "UY",
+	"TerritoryIso3Code": "URY",
+	"CountryIso2Code": "UY",
+	"CountryIso3Code": "URY"
+}, {
+	"Name": "US Virgin Islands",
+	"PolicyCode": "VIR",
+	"PlatformCode": "VIR",
+	"TerritoryIso2Code": "VI",
+	"TerritoryIso3Code": "VIR",
+	"CountryIso2Code": "US",
+	"CountryIso3Code": "USA"
+}, {
+	"Name": "USA",
+	"PolicyCode": "USA",
+	"PlatformCode": "USA",
+	"TerritoryIso2Code": "US",
+	"TerritoryIso3Code": "USA",
+	"CountryIso2Code": "US",
+	"CountryIso3Code": "USA"
+}, {
+	"Name": "Uzbekistan",
+	"PolicyCode": "UZB",
+	"PlatformCode": "UZB",
+	"TerritoryIso2Code": "UZ",
+	"TerritoryIso3Code": "UZB",
+	"CountryIso2Code": "UZ",
+	"CountryIso3Code": "UZB"
+}, {
+	"Name": "Vanuatu",
+	"PolicyCode": "VUT",
+	"PlatformCode": "VAN",
+	"TerritoryIso2Code": "VU",
+	"TerritoryIso3Code": "VUT",
+	"CountryIso2Code": "VU",
+	"CountryIso3Code": "VUT"
+}, {
+	"Name": "Vatican",
+	"PolicyCode": "VAT",
+	"PlatformCode": "VAT",
+	"TerritoryIso2Code": "VA",
+	"TerritoryIso3Code": "VAT",
+	"CountryIso2Code": "VA",
+	"CountryIso3Code": "VAT"
+}, {
+	"Name": "Venezuela",
+	"PolicyCode": "VEN",
+	"PlatformCode": "VEN",
+	"TerritoryIso2Code": "VE",
+	"TerritoryIso3Code": "VEN",
+	"CountryIso2Code": "VE",
+	"CountryIso3Code": "VEN"
+}, {
+	"Name": "Vietnam",
+	"PolicyCode": "VNM",
+	"PlatformCode": "VIE",
+	"TerritoryIso2Code": "VN",
+	"TerritoryIso3Code": "VNM",
+	"CountryIso2Code": "VN",
+	"CountryIso3Code": "VNM"
+}, {
+	"Name": "Wales",
+	"PolicyCode": null,
+	"PlatformCode": "WAL",
+	"TerritoryIso2Code": "XW",
+	"TerritoryIso3Code": "WAL",
+	"CountryIso2Code": "GB",
+	"CountryIso3Code": "GBR"
+}, {
+	"Name": "Yemen",
+	"PolicyCode": "YEM",
+	"PlatformCode": "YEM",
+	"TerritoryIso2Code": "YE",
+	"TerritoryIso3Code": "YEM",
+	"CountryIso2Code": "YE",
+	"CountryIso3Code": "YEM"
+}, {
+	"Name": "Zambia",
+	"PolicyCode": "ZMB",
+	"PlatformCode": "ZAM",
+	"TerritoryIso2Code": "ZM",
+	"TerritoryIso3Code": "ZMB",
+	"CountryIso2Code": "ZM",
+	"CountryIso3Code": "ZMB"
+}, {
+	"Name": "Zimbabwe",
+	"PolicyCode": "ZWE",
+	"PlatformCode": "ZIM",
+	"TerritoryIso2Code": "ZW",
+	"TerritoryIso3Code": "ZWE",
+	"CountryIso2Code": "ZW",
+	"CountryIso3Code": "ZWE"
+}]

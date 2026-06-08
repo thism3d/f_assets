@@ -1,0 +1,1772 @@
+{
+  "search_title": "Sélectionner le pays",
+  "search_hint_text": "Rechercher",
+  "search_not_found": "Aucun résultat",
+  "countries":[
+    {
+      "-name":"Andorre",
+      "-english_name":"Andorre",
+      "-name_code":"AD",
+      "-phone_code":"376"
+
+    },
+    {
+      "-name":"Émirats Arabes Unis",
+      "-english_name":"Émirats Arabes Unis",
+      "-name_code":"AE",
+      "-phone_code":"971"
+
+    },
+    {
+      "-name":"Afghanistan",
+      "-english_name":"Afghanistan",
+      "-name_code":"AF",
+      "-phone_code":"93"
+
+    },
+    {
+      "-name":"Antigua et Barbuda",
+      "-english_name":"Antigua et Barbuda",
+      "-name_code":"AG",
+      "-phone_code":"1"
+
+    },
+    {
+      "-name":"Anguilla",
+      "-english_name":"Anguilla",
+      "-name_code":"AI",
+      "-phone_code":"1"
+
+    },
+    {
+      "-name":"Albanie",
+      "-english_name":"Albanie",
+      "-name_code":"AL",
+      "-phone_code":"355"
+
+    },
+    {
+      "-name":"Arménie",
+      "-english_name":"Arménie",
+      "-name_code":"AM",
+      "-phone_code":"374"
+
+    },
+    {
+      "-name":"Angola",
+      "-english_name":"Angola",
+      "-name_code":"AO",
+      "-phone_code":"244"
+
+    },
+    {
+      "-name":"Antarctique",
+      "-english_name":"Antarctique",
+      "-name_code":"AQ",
+      "-phone_code":"672"
+
+    },
+    {
+      "-name":"Argentine",
+      "-english_name":"Argentine",
+      "-name_code":"AR",
+      "-phone_code":"54"
+
+    },
+    {
+      "-name":"Samoa Américaines",
+      "-english_name":"Samoa Américaines",
+      "-name_code":"AS",
+      "-phone_code":"1"
+
+    },
+    {
+      "-name":"Autriche",
+      "-english_name":"Autriche",
+      "-name_code":"AT",
+      "-phone_code":"43"
+
+    },
+    {
+      "-name":"Australie",
+      "-english_name":"Australie",
+      "-name_code":"AU",
+      "-phone_code":"61"
+
+    },
+    {
+      "-name":"Aruba",
+      "-english_name":"Aruba",
+      "-name_code":"AW",
+      "-phone_code":"297"
+
+    },
+    {
+      "-name":"Îles Åland",
+      "-english_name":"Îles Åland",
+      "-name_code":"AX",
+      "-phone_code":"358"
+
+    },
+    {
+      "-name":"Azerbaidjan",
+      "-english_name":"Azerbaidjan",
+      "-name_code":"AZ",
+      "-phone_code":"994"
+
+    },
+    {
+      "-name":"Bosnie Herzégovine",
+      "-english_name":"Bosnie Herzégovine",
+      "-name_code":"BA",
+      "-phone_code":"387"
+
+    },
+    {
+      "-name":"Barbades",
+      "-english_name":"Barbades",
+      "-name_code":"BB",
+      "-phone_code":"1"
+
+    },
+    {
+      "-name":"Bangladesh",
+      "-english_name":"Bangladesh",
+      "-name_code":"BD",
+      "-phone_code":"880"
+
+    },
+    {
+      "-name":"Belgique",
+      "-english_name":"Belgique",
+      "-name_code":"BE",
+      "-phone_code":"32"
+
+    },
+    {
+      "-name":"Burkina Faso",
+      "-english_name":"Burkina Faso",
+      "-name_code":"BF",
+      "-phone_code":"226"
+
+    },
+    {
+      "-name":"Bulgarie",
+      "-english_name":"Bulgarie",
+      "-name_code":"BG",
+      "-phone_code":"359"
+
+    },
+    {
+      "-name":"Bahrain",
+      "-english_name":"Bahrain",
+      "-name_code":"BH",
+      "-phone_code":"973"
+
+    },
+    {
+      "-name":"Burundi",
+      "-english_name":"Burundi",
+      "-name_code":"BI",
+      "-phone_code":"257"
+
+    },
+    {
+      "-name":"Bénin",
+      "-english_name":"Bénin",
+      "-name_code":"BJ",
+      "-phone_code":"229"
+
+    },
+    {
+      "-name":"Saint Barthélemy",
+      "-english_name":"Saint Barthélemy",
+      "-name_code":"BL",
+      "-phone_code":"590"
+
+    },
+    {
+      "-name":"Bermude",
+      "-english_name":"Bermude",
+      "-name_code":"BM",
+      "-phone_code":"1"
+
+    },
+    {
+      "-name":"Brunei Darussalam",
+      "-english_name":"Brunei Darussalam",
+      "-name_code":"BN",
+      "-phone_code":"673"
+
+    },
+    {
+      "-name":"Bolivie",
+      "-english_name":"Bolivie",
+      "-name_code":"BO",
+      "-phone_code":"591"
+
+    },
+    {
+      "-name":"Bonaire, Saint-Eustache et Saba",
+      "-english_name":"Bonaire, Saint-Eustache et Saba",
+      "-name_code":"BQ",
+      "-phone_code":"599"
+
+    },
+    {
+      "-name":"Brésil",
+      "-english_name":"Brésil",
+      "-name_code":"BR",
+      "-phone_code":"55"
+
+    },
+    {
+      "-name":"Bahamas",
+      "-english_name":"Bahamas",
+      "-name_code":"BS",
+      "-phone_code":"1"
+
+    },
+    {
+      "-name":"Bhoutan",
+      "-english_name":"Bhoutan",
+      "-name_code":"BT",
+      "-phone_code":"975"
+
+    },
+    {
+      "-name":"Île Bouvet",
+      "-english_name":"Île Bouvet",
+      "-name_code":"BV",
+      "-phone_code":"47"
+
+    },
+    {
+      "-name":"Botswana",
+      "-english_name":"Botswana",
+      "-name_code":"BW",
+      "-phone_code":"267"
+
+    },
+    {
+      "-name":"Biélorussie",
+      "-english_name":"Biélorussie",
+      "-name_code":"BY",
+      "-phone_code":"375"
+
+    },
+    {
+      "-name":"Belize",
+      "-english_name":"Belize",
+      "-name_code":"BZ",
+      "-phone_code":"501"
+
+    },
+    {
+      "-name":"Canada",
+      "-english_name":"Canada",
+      "-name_code":"CA",
+      "-phone_code":"1"
+
+    },
+    {
+      "-name":"Îles Cocos (Keeling)",
+      "-english_name":"Îles Cocos (Keeling)",
+      "-name_code":"CC",
+      "-phone_code":"61"
+
+    },
+    {
+      "-name":"République du Congo",
+      "-english_name":"République du Congo",
+      "-name_code":"CD",
+      "-phone_code":"243"
+
+    },
+    {
+      "-name":"République centrafricaine",
+      "-english_name":"République centrafricaine",
+      "-name_code":"CF",
+      "-phone_code":"236"
+
+    },
+    {
+      "-name":"Congo",
+      "-english_name":"Congo",
+      "-name_code":"CG",
+      "-phone_code":"242"
+
+    },
+    {
+      "-name":"Suisse",
+      "-english_name":"Suisse",
+      "-name_code":"CH",
+      "-phone_code":"41"
+
+    },
+    {
+      "-name":"Côte d'Ivoire",
+      "-english_name":"Côte d'Ivoire",
+      "-name_code":"CI",
+      "-phone_code":"225"
+
+    },
+    {
+      "-name":"Îles Cook",
+      "-english_name":"Îles Cook",
+      "-name_code":"CK",
+      "-phone_code":"682"
+
+    },
+    {
+      "-name":"Chili",
+      "-english_name":"Chili",
+      "-name_code":"CL",
+      "-phone_code":"56"
+
+    },
+    {
+      "-name":"Cameroun",
+      "-english_name":"Cameroun",
+      "-name_code":"CM",
+      "-phone_code":"237"
+
+    },
+    {
+      "-name":"Chine",
+      "-english_name":"Chine",
+      "-name_code":"CN",
+      "-phone_code":"86"
+
+    },
+    {
+      "-name":"Colombie",
+      "-english_name":"Colombie",
+      "-name_code":"CO",
+      "-phone_code":"57"
+
+    },
+    {
+      "-name":"Costa Rica",
+      "-english_name":"Costa Rica",
+      "-name_code":"CR",
+      "-phone_code":"506"
+
+    },
+    {
+      "-name":"Cuba",
+      "-english_name":"Cuba",
+      "-name_code":"CU",
+      "-phone_code":"53"
+
+    },
+    {
+      "-name":"Cap Vert",
+      "-english_name":"Cap Vert",
+      "-name_code":"CV",
+      "-phone_code":"238"
+
+    },
+    {
+      "-name":"Curaçao",
+      "-english_name":"Curaçao",
+      "-name_code":"CW",
+      "-phone_code":"599"
+
+    },
+    {
+      "-name":"Île Christmas",
+      "-english_name":"Île Christmas",
+      "-name_code":"CX",
+      "-phone_code":"61"
+
+    },
+    {
+      "-name":"Chypre",
+      "-english_name":"Chypre",
+      "-name_code":"CY",
+      "-phone_code":"357"
+
+    },
+    {
+      "-name":"République Tchèque",
+      "-english_name":"République Tchèque",
+      "-name_code":"CZ",
+      "-phone_code":"420"
+
+    },
+    {
+      "-name":"Allemagne",
+      "-english_name":"Allemagne",
+      "-name_code":"DE",
+      "-phone_code":"49"
+
+    },
+    {
+      "-name":"Djibouti",
+      "-english_name":"Djibouti",
+      "-name_code":"DJ",
+      "-phone_code":"253"
+
+    },
+    {
+      "-name":"Danemark",
+      "-english_name":"Danemark",
+      "-name_code":"DK",
+      "-phone_code":"45"
+
+    },
+    {
+      "-name":"Dominique",
+      "-english_name":"Dominique",
+      "-name_code":"DM",
+      "-phone_code":"1"
+
+    },
+    {
+      "-name":"République Dominicaine",
+      "-english_name":"République Dominicaine",
+      "-name_code":"DO",
+      "-phone_code":"1"
+
+    },
+    {
+      "-name":"Algérie",
+      "-english_name":"Algérie",
+      "-name_code":"DZ",
+      "-phone_code":"213"
+
+    },
+    {
+      "-name":"Équateur",
+      "-english_name":"Équateur",
+      "-name_code":"EC",
+      "-phone_code":"593"
+
+    },
+    {
+      "-name":"Estonie",
+      "-english_name":"Estonie",
+      "-name_code":"EE",
+      "-phone_code":"372"
+
+    },
+    {
+      "-name":"Égypte",
+      "-english_name":"Égypte",
+      "-name_code":"EG",
+      "-phone_code":"20"
+
+    },
+    {
+      "-name":"Érythrée",
+      "-english_name":"Érythrée",
+      "-name_code":"ER",
+      "-phone_code":"291"
+
+    },
+    {
+      "-name":"Espagne",
+      "-english_name":"Espagne",
+      "-name_code":"ES",
+      "-phone_code":"34"
+
+    },
+    {
+      "-name":"Ethiophie",
+      "-english_name":"Ethiophie",
+      "-name_code":"ET",
+      "-phone_code":"251"
+
+    },
+    {
+      "-name":"Finlande",
+      "-english_name":"Finlande",
+      "-name_code":"FI",
+      "-phone_code":"358"
+
+    },
+    {
+      "-name":"Fiji",
+      "-english_name":"Fiji",
+      "-name_code":"FJ",
+      "-phone_code":"679"
+
+    },
+    {
+      "-name":"Îles Malouines",
+      "-english_name":"Îles Malouines",
+      "-name_code":"FK",
+      "-phone_code":"500"
+
+    },
+    {
+      "-name":"Micronésie",
+      "-english_name":"Micronésie",
+      "-name_code":"FM",
+      "-phone_code":"691"
+
+    },
+    {
+      "-name":"Iles Faröe",
+      "-english_name":"Iles Faröe",
+      "-name_code":"FO",
+      "-phone_code":"298"
+
+    },
+    {
+      "-name":"France",
+      "-english_name":"France",
+      "-name_code":"FR",
+      "-phone_code":"33"
+
+    },
+    {
+      "-name":"Gabon",
+      "-english_name":"Gabon",
+      "-name_code":"GA",
+      "-phone_code":"241"
+
+    },
+    {
+      "-name":"Royaume Uni",
+      "-english_name":"Royaume Uni",
+      "-name_code":"GB",
+      "-phone_code":"44"
+
+    },
+    {
+      "-name":"Grenade",
+      "-english_name":"Grenade",
+      "-name_code":"GD",
+      "-phone_code":"1"
+
+    },
+    {
+      "-name":"Géorgie",
+      "-english_name":"Géorgie",
+      "-name_code":"GE",
+      "-phone_code":"995"
+
+    },
+    {
+      "-name":"Guyane française",
+      "-english_name":"Guyane française",
+      "-name_code":"GF",
+      "-phone_code":"594"
+
+    },
+    {
+      "-name":"Guernsey",
+      "-english_name":"Guernsey",
+      "-name_code":"GG",
+      "-phone_code":"44"
+
+    },
+    {
+      "-name":"Ghana",
+      "-english_name":"Ghana",
+      "-name_code":"GH",
+      "-phone_code":"233"
+
+    },
+    {
+      "-name":"Gibraltar",
+      "-english_name":"Gibraltar",
+      "-name_code":"GI",
+      "-phone_code":"350"
+
+    },
+    {
+      "-name":"Gröenland",
+      "-english_name":"Gröenland",
+      "-name_code":"GL",
+      "-phone_code":"299"
+
+    },
+    {
+      "-name":"Gambie",
+      "-english_name":"Gambie",
+      "-name_code":"GM",
+      "-phone_code":"220"
+
+    },
+    {
+      "-name":"Guinée",
+      "-english_name":"Guinée",
+      "-name_code":"GN",
+      "-phone_code":"224"
+
+    },
+    {
+      "-name":"Guadeloupe",
+      "-english_name":"Guadeloupe",
+      "-name_code":"GP",
+      "-phone_code":"450"
+
+    },
+    {
+      "-name":"Guinée équatoriale",
+      "-english_name":"Guinée équatoriale",
+      "-name_code":"GQ",
+      "-phone_code":"240"
+
+    },
+    {
+      "-name":"Grèce",
+      "-english_name":"Grèce",
+      "-name_code":"GR",
+      "-phone_code":"30"
+
+    },
+    {
+      "-name":"Géorgie du Sud-et-les Îles Sandwich du Sud",
+      "-english_name":"Géorgie du Sud-et-les Îles Sandwich du Sud",
+      "-name_code":"GS",
+      "-phone_code":"500"
+
+    },
+    {
+      "-name":"Guatemala",
+      "-english_name":"Guatemala",
+      "-name_code":"GT",
+      "-phone_code":"502"
+
+    },
+    {
+      "-name":"Guam",
+      "-english_name":"Guam",
+      "-name_code":"GU",
+      "-phone_code":"1"
+
+    },
+    {
+      "-name":"Guinée-Bissau",
+      "-english_name":"Guinée-Bissau",
+      "-name_code":"GW",
+      "-phone_code":"245"
+
+    },
+    {
+      "-name":"Guyana",
+      "-english_name":"Guyana",
+      "-name_code":"GY",
+      "-phone_code":"592"
+
+    },
+    {
+      "-name":"RAS de Hong Kong",
+      "-english_name":"RAS de Hong Kong",
+      "-name_code":"HK",
+      "-phone_code":"852"
+
+    },
+    {
+      "-name":"Îles Heard-et-MacDonald",
+      "-english_name":"Îles Heard-et-MacDonald",
+      "-name_code":"HM",
+      "-phone_code":"0"
+
+    },
+    {
+      "-name":"Honduras",
+      "-english_name":"Honduras",
+      "-name_code":"HN",
+      "-phone_code":"504"
+
+    },
+    {
+      "-name":"Croatie",
+      "-english_name":"Croatie",
+      "-name_code":"HR",
+      "-phone_code":"385"
+
+    },
+    {
+      "-name":"Haïti",
+      "-english_name":"Haïti",
+      "-name_code":"HT",
+      "-phone_code":"509"
+
+    },
+    {
+      "-name":"Hongrie",
+      "-english_name":"Hongrie",
+      "-name_code":"HU",
+      "-phone_code":"36"
+
+    },
+    {
+      "-name":"Indonésie",
+      "-english_name":"Indonésie",
+      "-name_code":"ID",
+      "-phone_code":"62"
+
+    },
+    {
+      "-name":"Irlande",
+      "-english_name":"Irlande",
+      "-name_code":"IE",
+      "-phone_code":"353"
+
+    },
+    {
+      "-name":"Israël",
+      "-english_name":"Israël",
+      "-name_code":"IL",
+      "-phone_code":"972"
+
+    },
+    {
+      "-name":"Île de Man",
+      "-english_name":"Île de Man",
+      "-name_code":"IM",
+      "-phone_code":"44"
+
+    },
+    {
+      "-name":"Inde",
+      "-english_name":"Inde",
+      "-name_code":"IN",
+      "-phone_code":"91"
+
+    },
+    {
+      "-name":"Territoire Britannique de l'Océan Indien",
+      "-english_name":"Territoire Britannique de l'Océan Indien",
+      "-name_code":"IO",
+      "-phone_code":"246"
+
+    },
+    {
+      "-name":"Iraq",
+      "-english_name":"Iraq",
+      "-name_code":"IQ",
+      "-phone_code":"964"
+
+    },
+    {
+      "-name":"Iran (République islamique)",
+      "-english_name":"Iran (République islamique)",
+      "-name_code":"IR",
+      "-phone_code":"98"
+
+    },
+    {
+      "-name":"Islande",
+      "-english_name":"Islande",
+      "-name_code":"IS",
+      "-phone_code":"354"
+
+    },
+    {
+      "-name":"Italie",
+      "-english_name":"Italie",
+      "-name_code":"IT",
+      "-phone_code":"39"
+
+    },
+    {
+      "-name":"Jersey",
+      "-english_name":"Jersey",
+      "-name_code":"JE",
+      "-phone_code":"44"
+
+    },
+    {
+      "-name":"Jamaïque",
+      "-english_name":"Jamaïque",
+      "-name_code":"JM",
+      "-phone_code":"1"
+
+    },
+    {
+      "-name":"Jordanie",
+      "-english_name":"Jordanie",
+      "-name_code":"JO",
+      "-phone_code":"962"
+
+    },
+    {
+      "-name":"Japon",
+      "-english_name":"Japon",
+      "-name_code":"JP",
+      "-phone_code":"81"
+
+    },
+    {
+      "-name":"Kenya",
+      "-english_name":"Kenya",
+      "-name_code":"KE",
+      "-phone_code":"254"
+
+    },
+    {
+      "-name":"Kirghizistan",
+      "-english_name":"Kirghizistan",
+      "-name_code":"KG",
+      "-phone_code":"996"
+
+    },
+    {
+      "-name":"Cambodge",
+      "-english_name":"Cambodge",
+      "-name_code":"KH",
+      "-phone_code":"855"
+
+    },
+    {
+      "-name":"Kiribati",
+      "-english_name":"Kiribati",
+      "-name_code":"KI",
+      "-phone_code":"686"
+
+    },
+    {
+      "-name":"Comorès",
+      "-english_name":"Comorès",
+      "-name_code":"KM",
+      "-phone_code":"269"
+
+    },
+    {
+      "-name":"Saint Kitts et Nevis",
+      "-english_name":"Saint Kitts et Nevis",
+      "-name_code":"KN",
+      "-phone_code":"1"
+
+    },
+    {
+      "-name":"Corée (République démocratique de)",
+      "-english_name":"Corée (République démocratique de)",
+      "-name_code":"KP",
+      "-phone_code":"850"
+
+    },
+    {
+      "-name":"Corée (République de)",
+      "-english_name":"Corée (République de)",
+      "-name_code":"KR",
+      "-phone_code":"82"
+
+    },
+    {
+      "-name":"Koweït",
+      "-english_name":"Koweït",
+      "-name_code":"KW",
+      "-phone_code":"965"
+
+    },
+    {
+      "-name":"Îles Caïmans",
+      "-english_name":"Îles Caïmans",
+      "-name_code":"KY",
+      "-phone_code":"1"
+
+    },
+    {
+      "-name":"Kazakhstan",
+      "-english_name":"Kazakhstan",
+      "-name_code":"KZ",
+      "-phone_code":"7"
+
+    },
+    {
+      "-name":"Laos",
+      "-english_name":"Laos",
+      "-name_code":"LA",
+      "-phone_code":"856"
+
+    },
+    {
+      "-name":"Liban",
+      "-english_name":"Liban",
+      "-name_code":"LB",
+      "-phone_code":"961"
+
+    },
+    {
+      "-name":"Sainte Lucie",
+      "-english_name":"Sainte Lucie",
+      "-name_code":"LC",
+      "-phone_code":"1"
+
+    },
+    {
+      "-name":"Liechtenstein",
+      "-english_name":"Liechtenstein",
+      "-name_code":"LI",
+      "-phone_code":"423"
+
+    },
+    {
+      "-name":"Sri Lanka",
+      "-english_name":"Sri Lanka",
+      "-name_code":"LK",
+      "-phone_code":"94"
+
+    },
+    {
+      "-name":"Liberia",
+      "-english_name":"Liberia",
+      "-name_code":"LR",
+      "-phone_code":"231"
+
+    },
+    {
+      "-name":"Lesotho",
+      "-english_name":"Lesotho",
+      "-name_code":"LS",
+      "-phone_code":"266"
+
+    },
+    {
+      "-name":"Lituanie",
+      "-english_name":"Lituanie",
+      "-name_code":"LT",
+      "-phone_code":"370"
+
+    },
+    {
+      "-name":"Luxembourg",
+      "-english_name":"Luxembourg",
+      "-name_code":"LU",
+      "-phone_code":"352"
+
+    },
+    {
+      "-name":"Lettonie",
+      "-english_name":"Lettonie",
+      "-name_code":"LV",
+      "-phone_code":"371"
+
+    },
+    {
+      "-name":"Libye",
+      "-english_name":"Libye",
+      "-name_code":"LY",
+      "-phone_code":"218"
+
+    },
+    {
+      "-name":"Maroc",
+      "-english_name":"Maroc",
+      "-name_code":"MA",
+      "-phone_code":"212"
+
+    },
+    {
+      "-name":"Monaco",
+      "-english_name":"Monaco",
+      "-name_code":"MC",
+      "-phone_code":"377"
+
+    },
+    {
+      "-name":"Moldavie",
+      "-english_name":"Moldavie",
+      "-name_code":"MD",
+      "-phone_code":"373"
+
+    },
+    {
+      "-name":"Monténégro",
+      "-english_name":"Monténégro",
+      "-name_code":"ME",
+      "-phone_code":"382"
+
+    },
+    {
+      "-name":"Saint-Martin",
+      "-english_name":"Saint-Martin",
+      "-name_code":"MF",
+      "-phone_code":"590"
+
+    },
+    {
+      "-name":"Madagascar",
+      "-english_name":"Madagascar",
+      "-name_code":"MG",
+      "-phone_code":"261"
+
+    },
+    {
+      "-name":"Îles Marshall",
+      "-english_name":"Îles Marshall",
+      "-name_code":"MH",
+      "-phone_code":"692"
+
+    },
+    {
+      "-name":"Macédoine du Nord",
+      "-english_name":"Macédoine du Nord",
+      "-name_code":"MK",
+      "-phone_code":"389"
+
+    },
+    {
+      "-name":"Mali",
+      "-english_name":"Mali",
+      "-name_code":"ML",
+      "-phone_code":"223"
+
+    },
+    {
+      "-name":"Myanmar",
+      "-english_name":"Myanmar",
+      "-name_code":"MM",
+      "-phone_code":"95"
+
+    },
+    {
+      "-name":"Mongolie",
+      "-english_name":"Mongolie",
+      "-name_code":"MN",
+      "-phone_code":"976"
+
+    },
+    {
+      "-name":"RAS de Macao",
+      "-english_name":"RAS de Macao",
+      "-name_code":"MO",
+      "-phone_code":"853"
+
+    },
+    {
+      "-name":"Îles Mariannes du Nord",
+      "-english_name":"Îles Mariannes du Nord",
+      "-name_code":"MP",
+      "-phone_code":"1"
+
+    },
+    {
+      "-name":"Martinique",
+      "-english_name":"Martinique",
+      "-name_code":"MQ",
+      "-phone_code":"596"
+
+    },
+    {
+      "-name":"Mauritanie",
+      "-english_name":"Mauritanie",
+      "-name_code":"MR",
+      "-phone_code":"222"
+
+    },
+    {
+      "-name":"Montserrat",
+      "-english_name":"Montserrat",
+      "-name_code":"MS",
+      "-phone_code":"1"
+
+    },
+    {
+      "-name":"Malte",
+      "-english_name":"Malte",
+      "-name_code":"MT",
+      "-phone_code":"356"
+
+    },
+    {
+      "-name":"Île Maurice",
+      "-english_name":"Île Maurice",
+      "-name_code":"MU",
+      "-phone_code":"230"
+
+    },
+    {
+      "-name":"Maldives",
+      "-english_name":"Maldives",
+      "-name_code":"MV",
+      "-phone_code":"960"
+
+    },
+    {
+      "-name":"Malawi",
+      "-english_name":"Malawi",
+      "-name_code":"MW",
+      "-phone_code":"265"
+
+    },
+    {
+      "-name":"Mexique",
+      "-english_name":"Mexique",
+      "-name_code":"MX",
+      "-phone_code":"52"
+
+    },
+    {
+      "-name":"Malaisie",
+      "-english_name":"Malaisie",
+      "-name_code":"MY",
+      "-phone_code":"60"
+
+    },
+    {
+      "-name":"Mozambique",
+      "-english_name":"Mozambique",
+      "-name_code":"MZ",
+      "-phone_code":"258"
+
+    },
+    {
+      "-name":"Namibie",
+      "-english_name":"Namibie",
+      "-name_code":"NA",
+      "-phone_code":"264"
+
+    },
+    {
+      "-name":"Nouvelle Calédonie",
+      "-english_name":"Nouvelle Calédonie",
+      "-name_code":"NC",
+      "-phone_code":"687"
+
+    },
+    {
+      "-name":"Niger",
+      "-english_name":"Niger",
+      "-name_code":"NE",
+      "-phone_code":"227"
+
+    },
+    {
+      "-name":"Île Norfolk",
+      "-english_name":"Île Norfolk",
+      "-name_code":"NF",
+      "-phone_code":"672"
+
+    },
+    {
+      "-name":"Nigéria",
+      "-english_name":"Nigéria",
+      "-name_code":"NG",
+      "-phone_code":"234"
+
+    },
+    {
+      "-name":"Nicaragua",
+      "-english_name":"Nicaragua",
+      "-name_code":"NI",
+      "-phone_code":"505"
+
+    },
+    {
+      "-name":"Pays-Bas",
+      "-english_name":"Pays-Bas",
+      "-name_code":"NL",
+      "-phone_code":"31"
+
+    },
+    {
+      "-name":"Norvège",
+      "-english_name":"Norvège",
+      "-name_code":"NO",
+      "-phone_code":"47"
+
+    },
+    {
+      "-name":"Népal",
+      "-english_name":"Népal",
+      "-name_code":"NP",
+      "-phone_code":"977"
+
+    },
+    {
+      "-name":"Nauru",
+      "-english_name":"Nauru",
+      "-name_code":"NR",
+      "-phone_code":"674"
+
+    },
+    {
+      "-name":"Nioué",
+      "-english_name":"Nioué",
+      "-name_code":"NU",
+      "-phone_code":"683"
+
+    },
+    {
+      "-name":"Nouvelle-Zélande",
+      "-english_name":"Nouvelle-Zélande",
+      "-name_code":"NZ",
+      "-phone_code":"64"
+
+    },
+    {
+      "-name":"Oman",
+      "-english_name":"Oman",
+      "-name_code":"OM",
+      "-phone_code":"968"
+
+    },
+    {
+      "-name":"Panama",
+      "-english_name":"Panama",
+      "-name_code":"PA",
+      "-phone_code":"507"
+
+    },
+    {
+      "-name":"Pérou",
+      "-english_name":"Pérou",
+      "-name_code":"PE",
+      "-phone_code":"51"
+
+    },
+    {
+      "-name":"Polynésie francaise",
+      "-english_name":"Polynésie francaise",
+      "-name_code":"PF",
+      "-phone_code":"689"
+
+    },
+    {
+      "-name":"Papouasie-Nouvelle Guinée",
+      "-english_name":"Papouasie-Nouvelle Guinée",
+      "-name_code":"PG",
+      "-phone_code":"675"
+
+    },
+    {
+      "-name":"Philippines",
+      "-english_name":"Philippines",
+      "-name_code":"PH",
+      "-phone_code":"63"
+
+    },
+    {
+      "-name":"Pakistan",
+      "-english_name":"Pakistan",
+      "-name_code":"PK",
+      "-phone_code":"92"
+
+    },
+    {
+      "-name":"Pologne",
+      "-english_name":"Pologne",
+      "-name_code":"PL",
+      "-phone_code":"48"
+
+    },
+    {
+      "-name":"Saint Pierre et Miquelon",
+      "-english_name":"Saint Pierre et Miquelon",
+      "-name_code":"PM",
+      "-phone_code":"508"
+
+    },
+    {
+      "-name":"Pitcairn",
+      "-english_name":"Pitcairn",
+      "-name_code":"PN",
+      "-phone_code":"870"
+
+    },
+    {
+      "-name":"Puerto Rico",
+      "-english_name":"Puerto Rico",
+      "-name_code":"PR",
+      "-phone_code":"1"
+
+    },
+    {
+      "-name":"Palestine",
+      "-english_name":"Palestine",
+      "-name_code":"PS",
+      "-phone_code":"970"
+
+    },
+    {
+      "-name":"Portugal",
+      "-english_name":"Portugal",
+      "-name_code":"PT",
+      "-phone_code":"351"
+
+    },
+    {
+      "-name":"Palaos",
+      "-english_name":"Palaos",
+      "-name_code":"PW",
+      "-phone_code":"680"
+
+    },
+    {
+      "-name":"Paraguay",
+      "-english_name":"Paraguay",
+      "-name_code":"PY",
+      "-phone_code":"595"
+
+    },
+    {
+      "-name":"Qatar",
+      "-english_name":"Qatar",
+      "-name_code":"QA",
+      "-phone_code":"974"
+
+    },
+    {
+      "-name":"La Réunion",
+      "-english_name":"La Réunion",
+      "-name_code":"RE",
+      "-phone_code":"262"
+
+    },
+    {
+      "-name":"Roumanie",
+      "-english_name":"Roumanie",
+      "-name_code":"RO",
+      "-phone_code":"40"
+
+    },
+    {
+      "-name":"Serbie",
+      "-english_name":"Serbie",
+      "-name_code":"RS",
+      "-phone_code":"381"
+
+    },
+    {
+      "-name":"Fédération de Russie",
+      "-english_name":"Fédération de Russie",
+      "-name_code":"RU",
+      "-phone_code":"7"
+
+    },
+    {
+      "-name":"Rwanda",
+      "-english_name":"Rwanda",
+      "-name_code":"RW",
+      "-phone_code":"250"
+
+    },
+    {
+      "-name":"Arabie Saoudite",
+      "-english_name":"Arabie Saoudite",
+      "-name_code":"SA",
+      "-phone_code":"966"
+
+    },
+    {
+      "-name":"Îles Salomon",
+      "-english_name":"Îles Salomon",
+      "-name_code":"SB",
+      "-phone_code":"677"
+
+    },
+    {
+      "-name":"Seychelles",
+      "-english_name":"Seychelles",
+      "-name_code":"SC",
+      "-phone_code":"248"
+
+    },
+    {
+      "-name":"Soudan",
+      "-english_name":"Soudan",
+      "-name_code":"SD",
+      "-phone_code":"249"
+
+    },
+    {
+      "-name":"Suède",
+      "-english_name":"Suède",
+      "-name_code":"SE",
+      "-phone_code":"46"
+
+    },
+    {
+      "-name":"Singapour",
+      "-english_name":"Singapour",
+      "-name_code":"SG",
+      "-phone_code":"65"
+
+    },
+    {
+      "-name":"Sainte Hélène",
+      "-english_name":"Sainte Hélène",
+      "-name_code":"SH",
+      "-phone_code":"290"
+
+    },
+    {
+      "-name":"Slovénie",
+      "-english_name":"Slovénie",
+      "-name_code":"SI",
+      "-phone_code":"386"
+
+    },
+    {
+      "-name":"Svalbard et Île Jan Mayen",
+      "-english_name":"Svalbard et Île Jan Mayen",
+      "-name_code":"SJ",
+      "-phone_code":"47"
+
+    },
+    {
+      "-name":"Slovaquie",
+      "-english_name":"Slovaquie",
+      "-name_code":"SK",
+      "-phone_code":"421"
+
+    },
+    {
+      "-name":"Sierra Leone",
+      "-english_name":"Sierra Leone",
+      "-name_code":"SL",
+      "-phone_code":"232"
+
+    },
+    {
+      "-name":"San Marin",
+      "-english_name":"San Marin",
+      "-name_code":"SM",
+      "-phone_code":"378"
+
+    },
+    {
+      "-name":"Sénégal",
+      "-english_name":"Sénégal",
+      "-name_code":"SN",
+      "-phone_code":"221"
+
+    },
+    {
+      "-name":"Somalie",
+      "-english_name":"Somalie",
+      "-name_code":"SO",
+      "-phone_code":"252"
+
+    },
+    {
+      "-name":"Surinam",
+      "-english_name":"Surinam",
+      "-name_code":"SR",
+      "-phone_code":"597"
+
+    },
+    {
+      "-name":"Soudan du Sud",
+      "-english_name":"Soudan du Sud",
+      "-name_code":"SS",
+      "-phone_code":"211"
+
+    },
+    {
+      "-name":"Sao Tomé-et-Principe",
+      "-english_name":"Sao Tomé-et-Principe",
+      "-name_code":"ST",
+      "-phone_code":"239"
+
+    },
+    {
+      "-name":"République du Salvador",
+      "-english_name":"République du Salvador",
+      "-name_code":"SV",
+      "-phone_code":"503"
+
+    },
+    {
+      "-name":"Sint Maarten (partie néerlandaise)",
+      "-english_name":"Sint Maarten (partie néerlandaise)",
+      "-name_code":"SX",
+      "-phone_code":"1"
+
+    },
+    {
+      "-name":"Syrie",
+      "-english_name":"Syrie",
+      "-name_code":"SY",
+      "-phone_code":"963"
+
+    },
+    {
+      "-name":"Swaziland",
+      "-english_name":"Swaziland",
+      "-name_code":"SZ",
+      "-phone_code":"268"
+
+    },
+    {
+      "-name":"Îles Turques-et-Caïques",
+      "-english_name":"Îles Turques-et-Caïques",
+      "-name_code":"TC",
+      "-phone_code":"1"
+
+    },
+    {
+      "-name":"Tchad",
+      "-english_name":"Tchad",
+      "-name_code":"TD",
+      "-phone_code":"235"
+
+    },
+    {
+      "-name":"Terres Australes Françaises",
+      "-english_name":"Terres Australes Françaises",
+      "-name_code":"TF",
+      "-phone_code":"262"
+
+    },
+    {
+      "-name":"Togo",
+      "-english_name":"Togo",
+      "-name_code":"TG",
+      "-phone_code":"228"
+
+    },
+    {
+      "-name":"Thaïlande",
+      "-english_name":"Thaïlande",
+      "-name_code":"TH",
+      "-phone_code":"66"
+
+    },
+    {
+      "-name":"Tadjikistan",
+      "-english_name":"Tadjikistan",
+      "-name_code":"TJ",
+      "-phone_code":"992"
+
+    },
+    {
+      "-name":"Tokelau",
+      "-english_name":"Tokelau",
+      "-name_code":"TK",
+      "-phone_code":"690"
+
+    },
+    {
+      "-name":"Timor oriental",
+      "-english_name":"Timor oriental",
+      "-name_code":"TL",
+      "-phone_code":"670"
+
+    },
+    {
+      "-name":"Turkménistan",
+      "-english_name":"Turkménistan",
+      "-name_code":"TM",
+      "-phone_code":"993"
+
+    },
+    {
+      "-name":"Tunisie",
+      "-english_name":"Tunisie",
+      "-name_code":"TN",
+      "-phone_code":"216"
+
+    },
+    {
+      "-name":"Tonga",
+      "-english_name":"Tonga",
+      "-name_code":"TO",
+      "-phone_code":"676"
+
+    },
+    {
+      "-name":"Turquie",
+      "-english_name":"Turquie",
+      "-name_code":"TR",
+      "-phone_code":"90"
+
+    },
+    {
+      "-name":"Trinité-et-Tobago",
+      "-english_name":"Trinité-et-Tobago",
+      "-name_code":"TT",
+      "-phone_code":"1"
+
+    },
+    {
+      "-name":"Tuvalu",
+      "-english_name":"Tuvalu",
+      "-name_code":"TV",
+      "-phone_code":"688"
+
+    },
+    {
+      "-name":"Province chinoise de Taïwan",
+      "-english_name":"Province chinoise de Taïwan",
+      "-name_code":"TW",
+      "-phone_code":"886"
+
+    },
+    {
+      "-name":"Tanzanie",
+      "-english_name":"Tanzanie",
+      "-name_code":"TZ",
+      "-phone_code":"255"
+
+    },
+    {
+      "-name":"Ukraine",
+      "-english_name":"Ukraine",
+      "-name_code":"UA",
+      "-phone_code":"380"
+
+    },
+    {
+      "-name":"Ouganda",
+      "-english_name":"Ouganda",
+      "-name_code":"UG",
+      "-phone_code":"256"
+
+    },
+    {
+      "-name":"Îles Mineures Éloignées des États-Unis",
+      "-english_name":"Îles Mineures Éloignées des États-Unis",
+      "-name_code":"UM",
+      "-phone_code":"1"
+
+    },
+    {
+      "-name":"États-Unis",
+      "-english_name":"États-Unis",
+      "-name_code":"US",
+      "-phone_code":"1"
+
+    },
+    {
+      "-name":"Uruguay",
+      "-english_name":"Uruguay",
+      "-name_code":"UY",
+      "-phone_code":"598"
+
+    },
+    {
+      "-name":"Ouzbékistan",
+      "-english_name":"Ouzbékistan",
+      "-name_code":"UZ",
+      "-phone_code":"998"
+
+    },
+    {
+      "-name":"Vatican",
+      "-english_name":"Vatican",
+      "-name_code":"VA",
+      "-phone_code":"379"
+
+    },
+    {
+      "-name":"Saint Vincent et les Grenadines",
+      "-english_name":"Saint Vincent et les Grenadines",
+      "-name_code":"VC",
+      "-phone_code":"1"
+
+    },
+    {
+      "-name":"Venezuela",
+      "-english_name":"Venezuela",
+      "-name_code":"VE",
+      "-phone_code":"58"
+
+    },
+    {
+      "-name":"Îles Vierges Britanniques",
+      "-english_name":"Îles Vierges Britanniques",
+      "-name_code":"VG",
+      "-phone_code":"1"
+
+    },
+    {
+      "-name":"Îles Vierges des États Unis",
+      "-english_name":"Îles Vierges des États Unis",
+      "-name_code":"VI",
+      "-phone_code":"1"
+
+    },
+    {
+      "-name":"Vietnam",
+      "-english_name":"Vietnam",
+      "-name_code":"VN",
+      "-phone_code":"84"
+
+    },
+    {
+      "-name":"Vanuatu",
+      "-english_name":"Vanuatu",
+      "-name_code":"VU",
+      "-phone_code":"678"
+
+    },
+    {
+      "-name":"Wallis et Futuna",
+      "-english_name":"Wallis et Futuna",
+      "-name_code":"WF",
+      "-phone_code":"681"
+
+    },
+    {
+      "-name":"Samoa",
+      "-english_name":"Samoa",
+      "-name_code":"WS",
+      "-phone_code":"685"
+
+    },
+    {
+      "-name":"Kosovo",
+      "-english_name":"Kosovo",
+      "-name_code":"XK",
+      "-phone_code":"383"
+
+    },
+    {
+      "-name":"Irlande du Nord",
+      "-english_name":"Irlande du Nord",
+      "-name_code":"XN",
+      "-phone_code":"44"
+
+    },
+    {
+      "-name":"Ecosse",
+      "-english_name":"Ecosse",
+      "-name_code":"XS",
+      "-phone_code":"44"
+
+    },
+    {
+      "-name":"Pays de Galles",
+      "-english_name":"Pays de Galles",
+      "-name_code":"XW",
+      "-phone_code":"44"
+
+    },
+    {
+      "-name":"Yémen",
+      "-english_name":"Yémen",
+      "-name_code":"YE",
+      "-phone_code":"967"
+
+    },
+    {
+      "-name":"Mayotte",
+      "-english_name":"Mayotte",
+      "-name_code":"YT",
+      "-phone_code":"262"
+
+    },
+    {
+      "-name":"Afrique du Sud",
+      "-english_name":"Afrique du Sud",
+      "-name_code":"ZA",
+      "-phone_code":"27"
+
+    },
+    {
+      "-name":"Zambie",
+      "-english_name":"Zambie",
+      "-name_code":"ZM",
+      "-phone_code":"260"
+
+    },
+    {
+      "-name":"Zimbabwe",
+      "-english_name":"Zimbabwe",
+      "-name_code":"ZW",
+      "-phone_code":"263"
+
+    }
+
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "nfc_check_alert_message": "Hold your device near the Steward card",
+  "nfc_check_functionality_button": "Prepare for security ticket check",
+  "restricted_nfc_check_btn_title": "Prepare for security ticket check unavailable",
+  "nfc_check_failed": "Ticket check failed"
+}

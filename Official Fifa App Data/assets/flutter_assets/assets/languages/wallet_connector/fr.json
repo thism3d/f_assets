@@ -1,0 +1,9 @@
+{
+  "wallet_exists_on_another_msg": "Ce billet a déjà été ajouté à un portefeuille",
+  "wallet_adding_error": "Impossible d'ajouter au portefeuille %s",
+  "wallet_adding_succeeded": "Ajouté au portefeuille de %s avec succès",
+  "wallet_viewing_error": "Impossible d'ouvrir ce billet sur le portefeuille de %s",
+  "wallet_existing_msg": "Ce billet a été ajouté au portefeuille de %s",
+  "wallet_get_data_error": "Impossible de se connecter au portefeuille de %s",
+  "wallet_not_compatible_error": "Votre portefeuille %s n'est pas compatible avec ce billet."
+}

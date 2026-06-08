@@ -1,0 +1,14 @@
+{
+  "visit_link": "Visit %s link",
+  "tab_position_of_length": "Tab %s of %s",
+  "general_back_button": "Back",
+  "general_toast_notification_role": "Toast notification",
+  "transfer_center_transfer_button": "Send tickets",
+  "transfer_center_filter_options_group": "Filter Options Group",
+  "outgoing_transfer_detail_edit_recipient_button": "Edit recipient",
+  "general_close_modal_btn": "Close modal",
+  "support_detail_semantics_qr_code_image": "QR code for scanning",
+  "sdk_close_btn": "Close",
+  "sdk_information_btn": "Information",
+  "sdk_transfer_filter_btn": "Filter"
+}

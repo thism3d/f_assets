@@ -1,0 +1,9 @@
+{
+  "wallet_exists_on_another_msg": "This ticket has been already added to a wallet",
+  "wallet_adding_error": "Unable to add to %s Wallet",
+  "wallet_adding_succeeded": "Added to %s Wallet successfully",
+  "wallet_viewing_error": "Unable to open this ticket on %s Wallet",
+  "wallet_existing_msg": "This ticket was added to %s Wallet",
+  "wallet_get_data_error": "Unable to connect to %s Wallet",
+  "wallet_not_compatible_error": "Your %s Wallet is not compatible with this ticket."
+}
